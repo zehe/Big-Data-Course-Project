@@ -1,0 +1,97 @@
+Exploring NYC Taxi Trips
+--------------------
+
+By now, you are already an expert on the NYC taxi data. For the final project, different groups will use the data to study various aspects urban life that can be detected from the taxi data and other related data sets.
+
+You can select one or more of the areas below to focus your analysis on. While I provide suggestions for what you can look for, I expect you to use your creativity and go beyond those suggestions. Besides exploring the taxi data, you must also use at least one additional data set in your analysis. You will use either Hadoop or Spark for this project.
+
+1)  Taxi Factbook
+Periodically, the Taxi & Limousine Commission releases a Fact Book (see http://www.nyc.gov/html/tlc/downloads/pdf/2014_taxicab_fact_book.pdf) where, for a given year, they list different statistics, e.g., the total number of medallions, the average number of miles traveled per year, number of passengers, etc. In this project, you will create the infrastructure to automatically generate Fact Books for different years. The output could be a Web site where users can explore and compare the statistics for different years.
+
+2) Detecting Gentrification
+Gentrification in NYC is a problem that has received substantial attention both in the media and in academia. See e.g.,
+
+http://www.nytimes.com/2015/02/25/opinion/the-gentrification-effect.html
+http://opinionator.blogs.nytimes.com/2014/12/03/a-gentrification-story/?_r=0
+http://www.huffingtonpost.com/news/new-york-city-gentrification
+http://observer.com/2015/01/gentrification-may-be-complicated-but-its-not-a-myth-and-neither-is-displacement/
+http://socialwork.nyu.edu/news/2014/04/28/seminar-explores-complex-micro-and-macro-level-effects-of-gentrification-on-nyc-neighborhoods.html
+
+Taxis can serve as sensors for economic activity in NYC, in that higher density of taxis in a region can serve as an indication of increased activity in that region. Can we combine taxi data with other data sets better detect gentrification? For example:
+
+ACRIS (sales data): https://data.cityofnewyork.us/City-Government/ACRIS-Real-Property-Master/bnx9-e6tj
+Multi Agency Permits (including all applications for construction activity): https://data.cityofnewyork.us/City-Government/Multi-Agency-Permits/xfyi-uyt5
+
+3) Understanding taxi usage
+Which neighborhoods are better served by taxis? How this correlates with the median household income per neighborhood ?
+How does taxi density vary over time and in different neighborhoods? During the day? On weekdays vs. weekends and holidays?
+Are there regions where the taxi density is always high (or low)?
+What are the most popular destinations? Do these change over time? For example, summer vs the other seasons?
+What are the most popular trips (source, destination)?
+Is the number of trips and taxis affected by weather? E.g., are there fewer cabs when it is raining/snowing?
+
+4) Yellow taxis, green taxis, Uber and bikes
+With the introduction of green taxis, Ubers and CitiBike, an interesting question is how these new modes of transportation have impacted urban movement in New York City.
+Are previously underserved regions (e.g., Harlem) better served now by the green taxis?  Has Uber negatively affected the revenues for yellow taxi companies? Or is Uber catering to a different set of customers?
+Are residents opting to use CitiBike instead of taxis/Uber?
+
+Here are articles that discuss some of these issues:
+- http://fivethirtyeight.com/tag/uber/
+- http://www.cnbc.com/2015/11/17/new-york-city-sued-over-uber-by-taxi-owners-say-livelihood-under-threat.html
+
+5) Data quality
+Data curation is a critical task in data science in which raw data is structured, validated, and repaired.  Data validation and repair establish trust in analytical results, while appropriate structuring streamlines analytics. 
+Data can be curated through a multitude of methods, including filtering operations, statistical analysis, outlier detection, and missing value imputation. Data that is detected as corrupted or inaccurate (i. e., dirty data) is either replaced, modified, or deleted from the datasets.
+
+Traditionally, curation has been carried out as a pre-processing task: after all data are selected for a study (or application), they are cleaned and loaded into a database or data warehouse. For some quality problems (e.g., invalid attribute ranges), this approach can be effective. But in many cases, cleaning constraints can only be defined as the user analyzes  and becomes familiar with the data.
+
+You have already observed data quality issues in the taxi data, e.g., duplicate records, negative values for fares, etc. In this project, you will do a detailed study and analyze the taxi data to identify a comprehensive set of (potential) data quality problems.
+
+
+
+Data sources
+
+Taxi data (yellow and green)
+- http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+
+Taxi data 2010-2013
+- Trip data: http://chriswhong.com/wp-content/uploads/2014/06/nycTaxiTripData2013.torrent
+- Fare data: http://chriswhong.com/wp-content/uploads/2014/06/nycTaxiFareData2013.torrent
+
+Green Taxi 2013-2014
+- http://chriswhong.com/nycborotaxidata/
+
+Taxi data 2010-2013
+- https://uofi.app.box.com/NYCtaxidata
+
+Uber Data
+- https://github.com/fivethirtyeight/uber-tlc-foil-response
+
+CitiBike
+- https://www.citibikenyc.com/system-data
+
+Census data
+- Demographics: http://www.nyc.gov/html/dcp/html/census/demo_tables_2010.shtml
+- Income information: http://www.nyc.gov/html/dcp/html/census/socio_tables.shtml
+- Shape files for census tracts: http://www.nyc.gov/html/dcp/html/bytes/districts_download_metadata.shtml (search for "tract")
+- Weather data
+http://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets
+http://www7.ncdc.noaa.gov/CDO/dataproduct
+Select either "Surface Data, Global Summary of the Day", or "Surface Data, Hourly Global" for a more detailed analysis.
+You can then choose NY state, and select the "John F Kennedy International Airport" station (or all the stations, Central Park, JFK and LaGuardia).
+Property and Construction data
+- ACRIS (sales data): https://data.cityofnewyork.us/City-Government/ACRIS-Real-Property-Master/bnx9-e6tj
+- Multi Agency Permits (including all applications for construction activity): https://data.cityofnewyork.us/City-Government/Multi-Agency-Permits/xfyi-uyt5
+
+Notes
+
+For your analyses, it may be useful to have the fare and trip files merged. You already know how to do this ;-)
+
+If you want to restrict your analyses to only consider trips that start or end in Manhattan, need to obtain the shape files for Manhattan and check whether the Lat/Long for the trip start (or end) are in the polygon defined by the shape files. Here are some links where you can find shape files:
+- NYC Neighborhoods shapefile in geojson: http://nycdata.pediacities.com/dataset?tags=neighborhoods
+- NYC ZIP: http://nycdata.pediacities.com/dataset/nyc-zip-code-tabulation-areas
+- To avoid float precision issues, convert money amounts to cents
+- Note that datetime is local datetime (with day-light saving). You can compute the dropoff_datetime by adding pickup_datetime to trip_time_in_secs -- this will help deal with changes in time.
+- Payments in cash often do not have a tip. Go figure...
+- Distances reported are in miles
+

@@ -1,0 +1,73 @@
+Understanding the Complex Interactions in New York City
+-------------------------------------------------------
+
+Cities are the loci of resource consumption, of economic activity, and of innovation; they are the cause of our looming sustainability problems but also where those problems must be solved. Our increasing ability to collect, transmit, and store data, coupled with the growing trend towards openness, creates a unique opportunity that can benefit government, science, citizens and industry.
+
+Urban data is unique in that it captures the behavior of the different components of a city, namely its citizens, existing infrastructure (physical and policies), the environment (e.g.: weather), and interactions between these elements. The availability of these data makes it possible to not only better understand the individual components but also obtain insights into how they interact.
+
+In this project, you will work with spatio-temporal urban data and try to find and explain some interactions between these elements of the city. You will use event detection and correlation techniques to analyze different types of urban data and uncover interesting relationships among them. Please follow the instructions below.
+
+1) You will use either Hadoop or Spark to work on this project.
+
+2) Choose one of the following pair of datasets from the list below. Information on each dataset is available at the end of this document.
+
+- Weather and Taxi
+- Weather and Vehicle Collisions
+- Weather and Citi Bike
+- Taxi and Citi Bike
+
+3) Use event detection techniques and correlation techniques to find interesting patterns and relationships between the datasets of the chosen pair. You DO NOT need to implement these techniques, since you can find them in different libraries. Here are some recommended techniques you can try and different implementations:
+
+Event/Outlier Detection Techniques:
+
+- Regression Analysis
+  Java/Scala: https://commons.apache.org/proper/commons-math/userguide/stat.html
+  Python: http://scikit-learn.org/stable/modules/linear_model.html
+
+- Box Plot (https://en.wikipedia.org/wiki/Box_plot)
+  Python: http://matplotlib.org/examples/statistics/boxplot_demo.html
+
+Correlation Techniques:
+
+- Pearson's Correlation (https://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient)
+  Java/Scala: https://commons.apache.org/proper/commons-math/userguide/stat.html
+  Python: http://docs.scipy.org/doc/scipy/reference/stats.html
+- Mutual Information (https://en.wikipedia.org/wiki/Mutual_information)
+  Java/Scala: https://github.com/jlizier/jidt
+  Python: http://scikit-learn.org/stable/modules/classes.html
+
+These are just recommendations. You are allowed (and encouraged) to play with other techniques and implementations.
+
+Spatio-temporal resolutions:
+
+Please note that different datasets are available in different spatio-temporal resolutions. For instance, the Weather dataset is available for the entire city in an hourly-basis, while the Taxi dataset is in GPS and at the granularity of seconds. Therefore, make sure they are in the same resolution before comparing datasets. You can aggregate the data to a common resolution beforehand (e.g., the temporal attributes for Weather and Taxi datasets can be aggregated to hour or day resolution). Also, make sure the temporal attributes are in the same time zone.
+
+Datasets:
+
+- Weather Dataset from NYC (year of 2015)
+
+  Available at: https://nyu.box.com/s/4lkrxs9rdsfjzpu1gh9nwen89jxtc9dd
+  Metadata available at: https://nyu.box.com/s/461edjve0obbsefcpaygb1h9z8yc49c4
+  Temporal data is in GMT (hour resolution).
+  Single dataset for the entire city.
+
+- 2015 Yellow Taxi Dataset
+
+  Available at http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+  Collect all the data files from 2015 (yellow taxi only)
+  Metadata available at: http://www.nyc.gov/html/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+  Temporal data is in EST (second resolution).
+  Spatial data is in GPS.
+  
+- Vehicle Collisions Dataset
+
+  Available at: https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95
+  Temporal data is in EST (second resolution).
+  Spatial data is in GPS and zip code.
+  
+- Citi Bike Trip Histories
+
+  Available at: https://www.citibikenyc.com/system-data ("Citi Bike Trip Histories" section)
+  Collect all the data from 2015.
+  Temporal data is in EST (second resolution).
+  Spatial data is in GPS.
