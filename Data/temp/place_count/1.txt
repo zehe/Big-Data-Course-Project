@@ -1,0 +1,2686 @@
+1	clinton,LGA	59
+1	LGA,dyker heights	1
+1	astoria-long island city,hamilton heights	2
+1	astoria-long island city,midtown	87
+1	fort green,canarsie	2
+1	mott haven,upper west side	5
+1	midtown,clinton	2006
+1	upper west side,west village	99
+1	little italy,williamsburg	55
+1	gramercy,utopia	8
+1	gramercy,carroll gardens	31
+1	JFK,the rockaways	13
+1	kwq gardens,clinton	1
+1	east village,bay ridge	10
+1	chelsea,queensboro hill	3
+1	chelsea,east brooklyn	3
+1	bushwick,bedford-stuyvesant	11
+1	cobble hill,fort green	8
+1	greewood,boerum hill	3
+1	fort green,chinatown	1
+1	kings bridge,inwood	1
+1	williamsburg,gramercy	15
+1	gramercy,forest hills	33
+1	greenwich village,morningside heights	20
+1	bushwick,greewood	1
+1	carnegie hill,east harlem	46
+1	tribeca,bushwick	12
+1	carnegie hill,JFK	6
+1	east brooklyn,canarsie	1
+1	sunny side,bedford-stuyvesant	3
+1	harlem,astoria-long island city	4
+1	williamsburg,tribeca	2
+1	tribeca,middle village	1
+1	brooklyn-downtown,gramercy	11
+1	williamsburg,glendale	2
+1	sunny side,mott haven	2
+1	greewood,clinton	2
+1	north sutton area,inwood	1
+1	bedford-stuyvesant,mapleton-flatlands	4
+1	upper west side,country club	1
+1	chelsea,kwq gardens	5
+1	middle village,sunny side	1
+1	mott haven,harlem	12
+1	chelsea,clinton	803
+1	williamsburg,washington heights	1
+1	west village,gravesend-sheepshead bay	3
+1	soho,upper west side	139
+1	west village,yorkville	18
+1	east village,woodside	12
+1	gramercy,JFK	76
+1	chinatown,washington heights	5
+1	fort green,park slope	33
+1	greewood,chelsea	1
+1	central park,morningside heights	38
+1	financial district,soho	116
+1	yorkville,riverdale	4
+1	west village,bushwick	17
+1	little italy,west village	68
+1	garment district,harlem	92
+1	upper east side,fort green	42
+1	harlem,brooklyn-downtown	2
+1	north sutton area,hamilton heights	6
+1	sunny side,forest hills	6
+1	gravesend-sheepshead bay,mapleton-flatlands	1
+1	financial district,sunset park	5
+1	greenwich village,garment district	468
+1	chelsea,canarsie	1
+1	astoria-long island city,mapleton-flatlands	1
+1	bedford-stuyvesant,astoria-long island city	2
+1	woodside,high bridge	1
+1	williamsburg,bay ridge	3
+1	west village,chinatown	7
+1	garment district,glendale	4
+1	woodside,murray hill	5
+1	flushing,soho	1
+1	chinatown,battery park	3
+1	morningside heights,soho	3
+1	midtown,middle village	16
+1	clinton,tribeca	77
+1	brooklyn-downtown,upper west side	3
+1	yorkville,yorkville	136
+1	clinton,central park	48
+1	central park,cobble hill	1
+1	washington heights,gramercy	2
+1	boerum hill,central park	1
+1	lower east side,soho	157
+1	midtown,high bridge	6
+1	astoria-long island city,forest hills	5
+1	chinatown,williamsburg	17
+1	financial district,the rockaways	1
+1	bedford-stuyvesant,greenwich village	1
+1	morningside heights,yorkville	27
+1	gramercy,astoria-long island city	132
+1	soho,gramercy	259
+1	williamsburg,upper west side	10
+1	east village,country club	1
+1	garment district,kwq gardens	14
+1	chelsea,garment district	964
+1	west village,bensonhurst	7
+1	fort green,brownsville	2
+1	sunny side,kwq gardens	6
+1	soho,bushwick	9
+1	financial district,hamilton heights	6
+1	tribeca,battery park	187
+1	fort green,gramercy	9
+1	battery park,chelsea	190
+1	tribeca,gravesend-sheepshead bay	6
+1	greenwich village,chinatown	26
+1	astoria-long island city,boerum hill	2
+1	east harlem,upper west side	42
+1	cobble hill,east brooklyn	1
+1	midtown,midtown	8210
+1	tribeca,carnegie hill	9
+1	carroll gardens,brooklyn-downtown	26
+1	tribeca,boerum hill	13
+1	upper west side,morris park	1
+1	fort green,east village	2
+1	middle village,midtown	1
+1	greenwich village,harlem	58
+1	chinatown,central park	4
+1	financial district,fort green	66
+1	financial district,queensboro hill	2
+1	lower east side,bushwick	84
+1	astoria-long island city,glendale	1
+1	parkchester,central park	2
+1	east village,hamilton heights	18
+1	upper east side,soho	153
+1	williamsburg,west village	7
+1	clinton,cobble hill	3
+1	central park,clinton	31
+1	tribeca,morris park	1
+1	JFK,jamaica	42
+1	jackson height,ridgewood	1
+1	garment district,lower east side	124
+1	flushing,jamaica	1
+1	soho,east harlem	8
+1	murray hill,spuyten duyvil	2
+1	LGA,laurelton	2
+1	soho,morningside heights	10
+1	washington heights,clinton	8
+1	JFK,park slope	57
+1	soho,tribeca	213
+1	financial district,bay ridge	13
+1	yorkville,garment district	41
+1	soho,jackson height	4
+1	central park,east village	14
+1	gravesend-sheepshead bay,greewood	1
+1	murray hill,east village	190
+1	east village,JFK	41
+1	gramercy,lower east side	356
+1	JFK,east brooklyn	24
+1	murray hill,tremont	2
+1	fort green,LGA	6
+1	clinton,bushwick	11
+1	fort green,south bronx	1
+1	park slope,soundview	1
+1	financial district,tribeca	209
+1	jackson height,clearview	1
+1	west village,park slope	22
+1	sunny side,east brooklyn	2
+1	forest hills,clinton	1
+1	JFK,hunts point	2
+1	greenwich village,soho	397
+1	carroll gardens,park slope	34
+1	chelsea,washington heights	59
+1	yorkville,central park	52
+1	JFK,central park	20
+1	mott haven,yorkville	4
+1	upper west side,brooklyn-downtown	8
+1	sunny side,murray hill	25
+1	upper east side,carroll gardens	11
+1	financial district,north sutton area	20
+1	greenwich village,union port	1
+1	brooklyn-downtown,park slope	11
+1	chelsea,astoria-long island city	90
+1	soho,canarsie	1
+1	jamaica,central park	1
+1	yorkville,sunny side	6
+1	west village,queens village	1
+1	east village,murray hill	230
+1	parkchester,parkchester	2
+1	mapleton-flatlands,saintalbans	1
+1	yorkville,carnegie hill	39
+1	chinatown,greenwich village	25
+1	midtown,prince's bay	1
+1	little italy,east harlem	4
+1	woodside,LGA	3
+1	clinton,williamsburg	33
+1	cobble hill,carnegie hill	1
+1	south bronx,south bronx	2
+1	boerum hill,clinton	1
+1	little italy,fort green	29
+1	cobble hill,bedford-stuyvesant	3
+1	west village,soho	212
+1	clinton,gramercy	348
+1	cobble hill,financial district	5
+1	murray hill,queensboro hill	2
+1	east harlem,mott haven	20
+1	garment district,the rockaways	1
+1	chelsea,forest hills	19
+1	bedford-stuyvesant,LGA	2
+1	greewood,fort green	2
+1	financial district,murray hill	120
+1	little italy,forest hills	1
+1	LGA,upper east side	257
+1	financial district,springfield gardens	1
+1	soho,washington heights	13
+1	tribeca,inwood	3
+1	clinton,upper west side	496
+1	midtown,lower east side	340
+1	west village,kings bridge	2
+1	garment district,country club	2
+1	lower east side,flushing	2
+1	garment district,chinatown	19
+1	JFK,riverdale	7
+1	boerum hill,sunset park	5
+1	fort green,carroll gardens	16
+1	greenwich village,inwood	3
+1	soho,murray hill	129
+1	astoria-long island city,washington heights	1
+1	fort green,boerum hill	15
+1	upper east side,bushwick	12
+1	greenwich village,jackson height	15
+1	upper east side,queensboro hill	2
+1	battery park,gravesend-sheepshead bay	2
+1	boerum hill,tribeca	4
+1	chelsea,sunny side	73
+1	greenwich village,boerum hill	17
+1	chelsea,JFK	53
+1	spuyten duyvil,kings bridge	1
+1	garment district,hamilton heights	39
+1	financial district,woodside	8
+1	sunny side,middle village	2
+1	upper west side,gramercy	396
+1	upper west side,carnegie hill	344
+1	upper east side,parkchester	9
+1	forest hills,north sutton area	1
+1	morningside heights,university heights	1
+1	sunny side,tribeca	3
+1	mapleton-flatlands,east village	1
+1	hamilton heights,clinton	2
+1	midtown,flushing	20
+1	morningside heights,sunny side	1
+1	south bronx,hamilton heights	2
+1	carnegie hill,ridgewood	1
+1	soho,spuyten duyvil	1
+1	clinton,morningside heights	47
+1	morningside heights,south bronx	2
+1	fort green,financial district	14
+1	chelsea,ridgewood	6
+1	harlem,fort green	2
+1	clinton,fordham	1
+1	LGA,morris park	1
+1	chelsea,murray hill	469
+1	astoria-long island city,bedford-stuyvesant	7
+1	east village,borough park	5
+1	utopia,utopia	10
+1	soho,central park	13
+1	flushing,flushing	6
+1	JFK,gravesend-sheepshead bay	41
+1	little italy,soho	61
+1	fort green,astoria-long island city	3
+1	upper east side,wakefield-williamsbridge	3
+1	gramercy,westleigh-castleton	2
+1	north sutton area,south bronx	3
+1	upper east side,little italy	45
+1	little italy,morningside heights	2
+1	murray hill,gramercy	945
+1	south bronx,upper east side	2
+1	forest hills,east village	1
+1	chelsea,chelsea	1945
+1	clinton,spuyten duyvil	1
+1	carnegie hill,high bridge	1
+1	lower east side,ridgewood	14
+1	chelsea,harlem	101
+1	soho,park slope	63
+1	boerum hill,battery park	3
+1	soho,boerum hill	21
+1	bedford-stuyvesant,bedford-stuyvesant	77
+1	tribeca,chelsea	257
+1	financial district,flushing	3
+1	midtown,sunset park	7
+1	murray hill,carroll gardens	12
+1	clinton,kwq gardens	2
+1	chelsea,jackson height	18
+1	east harlem,soho	3
+1	greenwich village,greewood	7
+1	astoria-long island city,brooklyn-downtown	4
+1	chelsea,todt hill	1
+1	soho,gravesend-sheepshead bay	4
+1	sunset park,yorkville	1
+1	morningside heights,murray hill	5
+1	soho,carnegie hill	9
+1	north sutton area,gramercy	204
+1	LGA,soundview	3
+1	west village,sunset park	3
+1	midtown,ridgewood	18
+1	riverdale,inwood	1
+1	boerum hill,borough park	8
+1	east village,bedford-stuyvesant	92
+1	boerum hill,LGA	3
+1	LGA,williamsburg	56
+1	east village,Auburndale	1
+1	gramercy,yorkville	120
+1	midtown,annandale	1
+1	upper west side,inwood	23
+1	park slope,LGA	2
+1	financial district,woodrow	1
+1	upper west side,midland beach	1
+1	fort green,washington heights	2
+1	bedford-stuyvesant,gramercy	1
+1	chelsea,carnegie hill	55
+1	high bridge,harlem	4
+1	yorkville,kwq gardens	1
+1	central park,yorkville	62
+1	chelsea,inwood	7
+1	tribeca,bensonhurst	1
+1	JFK,mapleton-flatlands	25
+1	borough park,park slope	4
+1	tribeca,brownsville	2
+1	tribeca,dyker heights	1
+1	forest hills,forest hills	22
+1	boerum hill,carnegie hill	1
+1	upper west side,gravesend-sheepshead bay	2
+1	ridgewood,east village	2
+1	LGA,central park	22
+1	central park,midtown	461
+1	greewood,park slope	1
+1	borough park,tribeca	1
+1	west village,east harlem	11
+1	williamsburg,mapleton-flatlands	1
+1	JFK,chinatown	13
+1	greenwich village,great kills	1
+1	woodside,astoria-long island city	31
+1	chelsea,baychester	1
+1	murray hill,glendale	1
+1	flushing,garment district	1
+1	astoria-long island city,battery park	2
+1	garment district,sunset park	3
+1	jackson height,astoria-long island city	34
+1	greenwich village,north sutton area	29
+1	carnegie hill,bedford-stuyvesant	2
+1	chelsea,country club	1
+1	yorkville,brooklyn-downtown	6
+1	midtown,carroll gardens	49
+1	clinton,JFK	47
+1	ridgewood,ridgewood	4
+1	cobble hill,mapleton-flatlands	1
+1	yorkville,upper east side	371
+1	east harlem,soundview	1
+1	upper west side,yorkville	257
+1	upper west side,high bridge	10
+1	carnegie hill,upper east side	705
+1	sunny side,clinton	11
+1	chelsea,gravesend-sheepshead bay	4
+1	JFK,woodlawn-nordwood	2
+1	east village,soho	199
+1	battery park,dyker heights	1
+1	LGA,sunset park	3
+1	tribeca,LGA	7
+1	park slope,fort green	41
+1	JFK,ridgewood	21
+1	midtown,bushwick	46
+1	upper west side,little italy	9
+1	soho,east brooklyn	2
+1	garment district,williams bridge	3
+1	bedford-stuyvesant,JFK	1
+1	east village,cobble hill	12
+1	soundview,hunts point	2
+1	battery park,williamsburg	9
+1	LGA,chelsea	114
+1	greenwich village,forest hills	8
+1	chinatown,bay ridge	1
+1	upper east side,fordham	7
+1	forest hills,kwq gardens	4
+1	north sutton area,harlem	10
+1	LGA,woodlawn-nordwood	1
+1	inwood,kings bridge	2
+1	east harlem,yorkville	108
+1	fort green,mapleton-flatlands	1
+1	chelsea,financial district	291
+1	boerum hill,lower east side	5
+1	JFK,carroll gardens	16
+1	harlem,financial district	7
+1	yorkville,greenwich village	8
+1	borough park,borough park	30
+1	hamilton heights,financial district	4
+1	murray hill,north sutton area	68
+1	woodside,JFK	2
+1	morningside heights,north sutton area	2
+1	garment district,little neck	1
+1	LGA,woodhaven-richmond hill	3
+1	carroll gardens,ridgewood	1
+1	harlem,LGA	19
+1	brooklyn-downtown,harlem	3
+1	garment district,ridgewood	11
+1	financial district,carnegie hill	4
+1	soho,riverdale	1
+1	washington heights,spuyten duyvil	1
+1	LGA,greewood	4
+1	fort green,soho	9
+1	kwq gardens,woodhaven-richmond hill	1
+1	hamilton heights,east village	2
+1	midtown,little italy	128
+1	lower east side,carroll gardens	23
+1	harlem,williamsburg	3
+1	lower east side,harlem	22
+1	soho,brooklyn-downtown	18
+1	forest hills,upper west side	3
+1	JFK,parkchester	3
+1	brooklyn-downtown,lower east side	8
+1	tribeca,greewood	5
+1	garment district,spuyten duyvil	6
+1	carnegie hill,washington heights	9
+1	LGA,carnegie hill	20
+1	LGA,tremont	1
+1	lower east side,cobble hill	7
+1	clinton,little neck	1
+1	east village,woodhaven-richmond hill	3
+1	cobble hill,battery park	2
+1	upper east side,tribeca	134
+1	financial district,garment district	129
+1	cobble hill,boerum hill	11
+1	bushwick,washington heights	1
+1	hamilton heights,east harlem	13
+1	mapleton-flatlands,sunset park	2
+1	midtown,hamilton heights	107
+1	soho,borough park	7
+1	woodside,clinton	2
+1	LGA,astoria-long island city	74
+1	yorkville,high bridge	3
+1	boerum hill,chinatown	1
+1	financial district,lower east side	184
+1	financial district,greenwich village	132
+1	gramercy,mapleton-flatlands	3
+1	parkchester,east village	1
+1	upper east side,dyker heights	2
+1	murray hill,canarsie	2
+1	upper east side,spuyten duyvil	1
+1	JFK,sunset park	9
+1	LGA,richmondtown	1
+1	morningside heights,gravesend-sheepshead bay	2
+1	upper east side,midtown	5380
+1	battery park,ridgewood	1
+1	garment district,morris park	1
+1	central park,hunts point	1
+1	west village,mapleton-flatlands	2
+1	throggs neck,throggs neck	2
+1	upper east side,bensonhurst	2
+1	battery park,sunny side	2
+1	lower east side,boerum hill	18
+1	little italy,tribeca	57
+1	upper east side,brownsville	4
+1	brooklyn-downtown,midtown	36
+1	gramercy,wakefield-williamsbridge	2
+1	chelsea,cobble hill	15
+1	sunny side,little neck	1
+1	fort green,borough park	4
+1	yorkville,south bronx	7
+1	astoria-long island city,ridgewood	1
+1	sunny side,soho	9
+1	yorkville,west village	8
+1	greenwich village,little italy	111
+1	midtown,brooklyn-downtown	72
+1	murray hill,east brooklyn	1
+1	mott haven,midtown	2
+1	north sutton area,LGA	25
+1	soho,little italy	56
+1	forest hills,sunny side	4
+1	harlem,tremont	2
+1	mapleton-flatlands,kwq gardens	1
+1	JFK,tremont	6
+1	mapleton-flatlands,park slope	7
+1	boerum hill,soho	4
+1	carnegie hill,gramercy	48
+1	east harlem,hamilton heights	9
+1	sunny side,fort green	4
+1	boerum hill,bedford-stuyvesant	20
+1	west village,midtown	578
+1	chelsea,little neck	1
+1	JFK,jackson height	52
+1	williamsburg,lower east side	24
+1	garment district,fort green	71
+1	north sutton area,battery park	24
+1	midtown,upper west side	3168
+1	LGA,the rockaways	1
+1	financial district,parkchester	2
+1	tribeca,jamaica	1
+1	greenwich village,mapleton-flatlands	5
+1	kwq gardens,garment district	1
+1	greenwich village,yorkville	42
+1	central park,park slope	1
+1	boerum hill,east harlem	1
+1	east harlem,harlem	90
+1	midtown,glendale	8
+1	mott haven,country club	1
+1	upper east side,utopia	2
+1	park slope,morningside heights	1
+1	greenwich village,queensboro hill	2
+1	gramercy,fort green	98
+1	carroll gardens,LGA	6
+1	upper west side,greewood	3
+1	LGA,parkchester	5
+1	gramercy,bay ridge	19
+1	mott haven,washington heights	1
+1	washington heights,hamilton heights	27
+1	garment district,bedford-stuyvesant	62
+1	financial district,queens village	1
+1	fort green,fort green	146
+1	yorkville,harlem	55
+1	battery park,kwq gardens	3
+1	JFK,queens village	14
+1	williamsburg,jackson height	2
+1	mott haven,upper east side	5
+1	gramercy,woodlawn-nordwood	2
+1	battery park,harlem	5
+1	brownsville,canarsie	1
+1	north sutton area,financial district	73
+1	jackson height,kwq gardens	1
+1	greenwich village,kwq gardens	5
+1	greenwich village,east brooklyn	1
+1	chelsea,borough park	7
+1	garment district,kings bridge	7
+1	jackson height,midtown	5
+1	astoria-long island city,gramercy	37
+1	garment district,murray hill	827
+1	garment district,forest hills	19
+1	gramercy,bensonhurst	10
+1	harlem,morningside heights	119
+1	upper east side,ridgewood	10
+1	JFK,upper west side	160
+1	JFK,garment district	92
+1	astoria-long island city,west village	2
+1	LGA,hamilton heights	16
+1	west village,harlem	19
+1	midtown,riverdale	10
+1	cobble hill,upper east side	7
+1	carnegie hill,brooklyn-downtown	1
+1	LGA,riverdale	4
+1	gramercy,flushing	7
+1	upper east side,hunts point	8
+1	JFK,Auburndale	7
+1	mapleton-flatlands,gramercy	1
+1	tribeca,ridgewood	1
+1	sunset park,greewood	1
+1	harlem,greenwich village	11
+1	brooklyn-downtown,upper east side	9
+1	central park,east harlem	27
+1	park slope,JFK	4
+1	morris heights,morris heights	1
+1	east village,east harlem	19
+1	carroll gardens,cobble hill	9
+1	upper east side,washington heights	153
+1	inwood,upper west side	1
+1	clinton,jamaica	2
+1	harlem,west village	1
+1	north sutton area,spuyten duyvil	1
+1	williamsburg,astoria-long island city	9
+1	upper east side,astoria-long island city	215
+1	brooklyn-downtown,sunny side	2
+1	hamilton heights,mott haven	5
+1	gramercy,riverdale	4
+1	north sutton area,chinatown	4
+1	hamilton heights,greenwich village	2
+1	financial district,east harlem	10
+1	gramercy,washington heights	51
+1	gramercy,high bridge	5
+1	upper east side,clearview	1
+1	greenwich village,tribeca	261
+1	williamsburg,battery park	4
+1	financial district,spuyten duyvil	4
+1	JFK,morris park	4
+1	battery park,upper west side	59
+1	greenwich village,fort green	124
+1	park slope,upper east side	2
+1	west village,carroll gardens	7
+1	central park,LGA	31
+1	LGA,brooklyn-downtown	22
+1	JFK,east harlem	9
+1	fort green,middle village	1
+1	astoria-long island city,clinton	6
+1	soho,chelsea	315
+1	park slope,park slope	67
+1	morningside heights,inwood	3
+1	west village,parkchester	1
+1	soho,woodside	5
+1	park slope,harlem	3
+1	central park,the rockaways	1
+1	greenwich village,woodside	10
+1	brooklyn-downtown,north sutton area	1
+1	central park,carnegie hill	103
+1	sunny side,sunset park	1
+1	north sutton area,kwq gardens	3
+1	north sutton area,greenwich village	31
+1	east village,chinatown	50
+1	chelsea,soho	276
+1	murray hill,lower east side	102
+1	garment district,bensonhurst	4
+1	midtown,soundview	4
+1	east harlem,parkchester	2
+1	gramercy,cobble hill	19
+1	hamilton heights,midtown	33
+1	boerum hill,bensonhurst	1
+1	harlem,battery park	3
+1	upper west side,tremont	8
+1	north sutton area,morningside heights	7
+1	yorkville,clinton	24
+1	upper west side,financial district	111
+1	fort green,harlem	1
+1	harlem,harlem	265
+1	boerum hill,queensboro hill	1
+1	murray hill,central park	35
+1	financial district,LGA	52
+1	garment district,JFK	52
+1	east village,lower east side	436
+1	hamilton heights,yorkville	12
+1	sunny side,bay ridge	1
+1	forest hills,gramercy	4
+1	chelsea,new brighten	1
+1	upper east side,mott haven	53
+1	financial district,riverdale	1
+1	chelsea,east harlem	40
+1	upper east side,yorkville	822
+1	east harlem,sunny side	1
+1	soho,lower east side	197
+1	north sutton area,tremont	1
+1	sunny side,ridgewood	7
+1	little italy,LGA	6
+1	LGA,washington heights	35
+1	borough park,carroll gardens	3
+1	murray hill,williams bridge	2
+1	financial district,morris park	1
+1	washington heights,upper east side	17
+1	cobble hill,greenwich village	1
+1	east harlem,high bridge	3
+1	tribeca,hamilton heights	2
+1	inwood,university heights	2
+1	murray hill,little italy	15
+1	sunny side,flushing	1
+1	north sutton area,tribeca	24
+1	midtown,washington heights	227
+1	murray hill,mott haven	7
+1	gramercy,bedford park	4
+1	murray hill,bay ridge	5
+1	gramercy,tribeca	243
+1	murray hill,bedford park	1
+1	fort green,midtown	17
+1	soundview,tremont	1
+1	soho,bedford-stuyvesant	31
+1	jackson height,harlem	1
+1	lower east side,financial district	166
+1	battery park,bay ridge	2
+1	carnegie hill,clinton	17
+1	gramercy,west village	347
+1	harlem,mott haven	8
+1	dyker heights,bensonhurst	1
+1	woodside,soho	2
+1	harlem,chelsea	14
+1	kwq gardens,forest hills	2
+1	sunny side,east harlem	1
+1	little italy,kwq gardens	1
+1	upper east side,central park	509
+1	financial district,south bronx	1
+1	carroll gardens,JFK	1
+1	west village,brooklyn-downtown	16
+1	murray hill,bushwick	8
+1	gramercy,kwq gardens	8
+1	greenwich village,battery park	180
+1	little italy,greewood	4
+1	forest hills,LGA	1
+1	east harlem,country club	1
+1	soundview,soundview	1
+1	upper east side,high bridge	10
+1	sunny side,woodside	31
+1	lower east side,sunny side	23
+1	west village,williams bridge	1
+1	park slope,greewood	19
+1	JFK,midtown	421
+1	chelsea,morris heights	1
+1	financial district,inwood	3
+1	little italy,financial district	71
+1	washington heights,upper west side	28
+1	washington heights,mott haven	4
+1	harlem,south bronx	10
+1	morningside heights,LGA	13
+1	little italy,bushwick	15
+1	fort green,garment district	4
+1	battery park,high bridge	2
+1	tribeca,forest hills	5
+1	gramercy,midtown	2612
+1	west village,west village	273
+1	mott haven,financial district	4
+1	lower east side,upper west side	89
+1	yorkville,upper west side	169
+1	west village,boerum hill	8
+1	garment district,utopia	5
+1	LGA,chinatown	2
+1	LGA,brownsville	3
+1	gramercy,woodside	17
+1	east village,west village	183
+1	carroll gardens,middle village	1
+1	battery park,canarsie	2
+1	little italy,bedford-stuyvesant	19
+1	garment district,east harlem	39
+1	upper east side,canarsie	2
+1	north sutton area,bushwick	5
+1	kings bridge,high bridge	2
+1	maspeth,woodside	2
+1	astoria-long island city,lower east side	12
+1	gramercy,hamilton heights	20
+1	astoria-long island city,north sutton area	9
+1	east village,jackson height	15
+1	garment district,maspeth	3
+1	tribeca,little italy	60
+1	chinatown,midtown	25
+1	LGA,little neck	3
+1	JFK,saintalbans	17
+1	morningside heights,park slope	1
+1	cobble hill,east village	1
+1	soho,high bridge	2
+1	LGA,south bronx	7
+1	fort green,jamaica	4
+1	battery park,greenwich village	73
+1	east harlem,south bronx	13
+1	north sutton area,brooklyn-downtown	1
+1	carroll gardens,greenwich village	8
+1	midtown,east village	784
+1	yorkville,university heights	4
+1	garment district,battery park	106
+1	carnegie hill,chelsea	34
+1	park slope,murray hill	1
+1	east village,bensonhurst	2
+1	upper west side,woodside	10
+1	soho,west village	214
+1	upper west side,clinton	502
+1	tribeca,mapleton-flatlands	5
+1	clinton,park slope	23
+1	hamilton heights,gramercy	3
+1	harlem,university heights	1
+1	murray hill,sunset park	2
+1	harlem,JFK	8
+1	west village,gramercy	344
+1	brooklyn-downtown,little italy	2
+1	upper east side,financial district	415
+1	gramercy,chelsea	1362
+1	LGA,lower east side	35
+1	soho,greenwich village	339
+1	greenwich village,ridgewood	6
+1	ridgewood,maspeth	1
+1	tribeca,murray hill	86
+1	little italy,upper west side	50
+1	boerum hill,greewood	6
+1	central park,mott haven	1
+1	central park,JFK	14
+1	chelsea,university heights	1
+1	tribeca,lower east side	132
+1	park slope,williamsburg	12
+1	brooklyn-downtown,jackson height	2
+1	garment district,sunny side	65
+1	greenwich village,spuyten duyvil	2
+1	lower east side,inwood	3
+1	tribeca,sunset park	8
+1	chelsea,woodlawn-nordwood	1
+1	murray hill,mapleton-flatlands	5
+1	fort green,lower east side	8
+1	gramercy,gramercy	2342
+1	clinton,harlem	59
+1	midtown,saintalbans	3
+1	garment district,brooklyn-downtown	15
+1	upper west side,bedford park	6
+1	chelsea,tremont	1
+1	JFK,boerum hill	25
+1	financial district,clinton	90
+1	chinatown,astoria-long island city	5
+1	upper east side,harlem	315
+1	jackson height,woodside	22
+1	little italy,JFK	7
+1	midtown,utopia	16
+1	little italy,little italy	16
+1	gramercy,bushwick	38
+1	tribeca,little neck	1
+1	bay ridge,bensonhurst	1
+1	tribeca,garment district	107
+1	park slope,greenwich village	2
+1	murray hill,battery park	72
+1	tribeca,jackson height	2
+1	LGA,hunts point	4
+1	greenwich village,mott haven	4
+1	hamilton heights,hamilton heights	56
+1	JFK,todt hill	1
+1	chinatown,bensonhurst	1
+1	sunny side,chelsea	18
+1	financial district,gramercy	249
+1	midtown,gramercy	2941
+1	north sutton area,flushing	3
+1	park slope,bay ridge	1
+1	clinton,ettingville	1
+1	harlem,high bridge	6
+1	astoria-long island city,fort green	3
+1	mott haven,east harlem	8
+1	morningside heights,astoria-long island city	2
+1	astoria-long island city,LGA	20
+1	garment district,midland beach	1
+1	morningside heights,morningside heights	97
+1	jackson height,williamsburg	1
+1	chelsea,glendale	1
+1	yorkville,financial district	20
+1	upper west side,greenwich village	163
+1	west village,east village	183
+1	clinton,woodside	10
+1	garment district,upper east side	1103
+1	clinton,carroll gardens	6
+1	JFK,clearview	4
+1	murray hill,soho	96
+1	financial district,bedford park	2
+1	sunny side,lower east side	5
+1	upper east side,west village	142
+1	williamsburg,carroll gardens	7
+1	JFK,brooklyn-downtown	24
+1	washington heights,garment district	10
+1	jamaica,JFK	1
+1	brooklyn-downtown,williamsburg	21
+1	financial district,dyker heights	10
+1	sunny side,morningside heights	2
+1	north sutton area,central park	18
+1	cobble hill,gramercy	9
+1	upper east side,upper west side	2036
+1	east village,mott haven	6
+1	LGA,financial district	109
+1	murray hill,upper west side	268
+1	carnegie hill,jackson height	2
+1	JFK,morris heights	4
+1	lower east side,north sutton area	15
+1	west village,JFK	16
+1	upper west side,midtown	2806
+1	greenwich village,bedford park	1
+1	brooklyn-downtown,east harlem	1
+1	upper east side,carnegie hill	948
+1	carroll gardens,carroll gardens	42
+1	washington heights,LGA	5
+1	gramercy,inwood	6
+1	battery park,garment district	60
+1	upper east side,williams bridge	5
+1	washington heights,morningside heights	5
+1	williamsburg,boerum hill	6
+1	garment district,soundview	3
+1	high bridge,south bronx	1
+1	midtown,canarsie	9
+1	astoria-long island city,upper east side	103
+1	sunny side,gramercy	25
+1	midtown,maspeth	18
+1	soho,east village	221
+1	west village,battery park	121
+1	sunny side,LGA	9
+1	murray hill,clinton	261
+1	lower east side,university heights	2
+1	carroll gardens,murray hill	5
+1	bedford-stuyvesant,midtown	2
+1	greenwich village,woodlawn-nordwood	2
+1	clinton,west village	145
+1	soho,hamilton heights	8
+1	bushwick,carroll gardens	1
+1	chelsea,williamsburg	134
+1	garment district,borough park	13
+1	east village,mapleton-flatlands	6
+1	garment district,woodside	12
+1	garment district,carroll gardens	20
+1	murray hill,hamilton heights	5
+1	LGA,saintalbans	2
+1	midtown,woodrow	2
+1	cobble hill,north sutton area	2
+1	financial district,east village	155
+1	battery park,yorkville	3
+1	high bridge,parkchester	2
+1	east harlem,astoria-long island city	4
+1	fort green,carnegie hill	1
+1	brooklyn-downtown,west village	5
+1	clinton,yorkville	25
+1	chinatown,flushing	1
+1	fort green,murray hill	6
+1	east village,upper east side	388
+1	central park,woodside	4
+1	bushwick,fort green	2
+1	midtown,gravesend-sheepshead bay	20
+1	little italy,battery park	21
+1	high bridge,east harlem	1
+1	greewood,gravesend-sheepshead bay	2
+1	harlem,clinton	17
+1	murray hill,greewood	4
+1	north sutton area,carroll gardens	3
+1	battery park,bushwick	4
+1	JFK,wakefield-williamsbridge	4
+1	astoria-long island city,hunts point	5
+1	upper east side,huguenot	1
+1	chinatown,harlem	4
+1	LGA,bensonhurst	2
+1	LGA,soho	29
+1	forest hills,south bronx	1
+1	fort green,west village	5
+1	chinatown,bushwick	3
+1	gramercy,sunny side	86
+1	astoria-long island city,upper west side	33
+1	union port,harlem	1
+1	lower east side,maspeth	3
+1	LGA,north sutton area	20
+1	upper east side,the rockaways	1
+1	cobble hill,jamaica	2
+1	west village,garment district	219
+1	clinton,kings bridge	4
+1	financial district,boerum hill	24
+1	carnegie hill,maspeth	1
+1	garment district,chelsea	981
+1	astoria-long island city,bushwick	4
+1	boerum hill,garment district	5
+1	clinton,mapleton-flatlands	1
+1	bushwick,astoria-long island city	6
+1	lower east side,lower east side	333
+1	garment district,morningside heights	34
+1	east village,park slope	78
+1	chelsea,bushwick	43
+1	midtown,Auburndale	4
+1	gramercy,carnegie hill	52
+1	murray hill,tribeca	86
+1	east village,harlem	43
+1	garment district,gravesend-sheepshead bay	7
+1	LGA,high bridge	3
+1	sunny side,garment district	21
+1	harlem,carnegie hill	22
+1	murray hill,garment district	707
+1	cobble hill,brooklyn-downtown	11
+1	financial district,ridgewood	4
+1	financial district,midtown	378
+1	financial district,gravesend-sheepshead bay	12
+1	JFK,maspeth	11
+1	west village,kwq gardens	2
+1	south bronx,morris park	1
+1	boerum hill,financial district	5
+1	upper east side,clinton	322
+1	lower east side,mott haven	3
+1	midtown,oakwood	1
+1	soho,inwood	3
+1	garment district,little italy	46
+1	little italy,cobble hill	6
+1	sunny side,carroll gardens	2
+1	JFK,west village	43
+1	morningside heights,JFK	15
+1	west village,woodside	4
+1	carnegie hill,murray hill	52
+1	hamilton heights,garment district	6
+1	JFK,mott haven	4
+1	upper west side,kings bridge	9
+1	jackson height,murray hill	4
+1	JFK,LGA	48
+1	upper east side,murray hill	757
+1	midtown,east harlem	125
+1	gramercy,queensboro hill	4
+1	carroll gardens,fort green	24
+1	east brooklyn,bedford-stuyvesant	1
+1	brooklyn-downtown,chinatown	3
+1	inwood,fordham	1
+1	chelsea,wakefield-williamsbridge	1
+1	chelsea,west village	570
+1	east village,carroll gardens	20
+1	astoria-long island city,JFK	14
+1	soho,mapleton-flatlands	11
+1	upper west side,fordham	7
+1	lower east side,sunset park	9
+1	fort green,cobble hill	6
+1	sunny side,Auburndale	1
+1	hamilton heights,chelsea	13
+1	garment district,middle village	2
+1	woodside,sunset park	2
+1	carroll gardens,brownsville	2
+1	woodhaven-richmond hill,woodhaven-richmond hill	3
+1	williamsburg,cobble hill	7
+1	little italy,yorkville	3
+1	bedford-stuyvesant,upper west side	1
+1	morningside heights,gramercy	14
+1	williamsburg,bushwick	57
+1	midtown,south beach	2
+1	morningside heights,greenwich village	4
+1	tribeca,chinatown	40
+1	chelsea,gramercy	1440
+1	east village,tribeca	104
+1	garment district,cobble hill	8
+1	central park,garment district	60
+1	harlem,woodside	2
+1	bay ridge,carroll gardens	2
+1	kwq gardens,midtown	1
+1	sunny side,north sutton area	8
+1	JFK,kings bridge	2
+1	chelsea,greewood	5
+1	LGA,upper west side	187
+1	lower east side,fort green	112
+1	upper east side,greewood	6
+1	bushwick,williamsburg	14
+1	carroll gardens,williamsburg	6
+1	midtown,bensonhurst	16
+1	carnegie hill,carnegie hill	85
+1	washington heights,yorkville	6
+1	morningside heights,middle village	1
+1	bedford-stuyvesant,bushwick	10
+1	gramercy,saintalbans	1
+1	upper west side,murray hill	229
+1	clinton,battery park	76
+1	greenwich village,gramercy	954
+1	gramercy,central park	56
+1	east village,battery park	54
+1	east village,spuyten duyvil	1
+1	utopia,JFK	4
+1	LGA,mapleton-flatlands	9
+1	greenwich village,country club	1
+1	financial district,yorkville	16
+1	carroll gardens,carnegie hill	1
+1	financial district,utopia	4
+1	upper west side,hunts point	2
+1	carroll gardens,washington heights	3
+1	williamsburg,upper east side	7
+1	woodside,sunny side	32
+1	chelsea,union port	1
+1	harlem,washington heights	21
+1	queens village,jamaica	2
+1	mapleton-flatlands,canarsie	1
+1	LGA,little italy	5
+1	east harlem,hunts point	1
+1	hamilton heights,inwood	7
+1	central park,fort green	3
+1	midtown,morris heights	4
+1	chelsea,greenwich village	760
+1	financial district,bensonhurst	8
+1	chinatown,soho	13
+1	mott haven,lower east side	2
+1	central park,gramercy	78
+1	JFK,spuyten duyvil	3
+1	financial district,kwq gardens	5
+1	flushing,kwq gardens	1
+1	greenwich village,chelsea	967
+1	midtown,university heights	9
+1	yorkville,bedford park	2
+1	upper west side,boerum hill	12
+1	clinton,laurelton	1
+1	carnegie hill,tribeca	12
+1	little italy,astoria-long island city	8
+1	harlem,east village	6
+1	battery park,oakwood	1
+1	fort green,greenwich village	10
+1	chelsea,midtown	1752
+1	gramercy,little italy	89
+1	utopia,queens village	2
+1	upper west side,throggs neck	2
+1	lower east side,greewood	12
+1	jackson height,woodhaven-richmond hill	1
+1	yorkville,inwood	1
+1	sunny side,east village	3
+1	astoria-long island city,greenwich village	9
+1	gramercy,boerum hill	29
+1	chinatown,gramercy	25
+1	garment district,throggs neck	4
+1	mapleton-flatlands,mapleton-flatlands	8
+1	little italy,clinton	33
+1	boerum hill,upper east side	4
+1	greenwich village,hamilton heights	28
+1	tribeca,bedford-stuyvesant	29
+1	brooklyn-downtown,forest hills	1
+1	borough park,midtown	1
+1	flushing,east village	1
+1	murray hill,wakefield-williamsbridge	1
+1	west village,bay ridge	10
+1	brooklyn-downtown,financial district	15
+1	east harlem,jamaica	1
+1	west village,financial district	162
+1	battery park,riverdale	1
+1	tribeca,harlem	11
+1	boerum hill,gramercy	7
+1	garment district,high bridge	8
+1	carnegie hill,harlem	43
+1	midtown,city island	1
+1	park slope,financial district	3
+1	midtown,morningside heights	154
+1	little italy,wakefield-williamsbridge	1
+1	JFK,chelsea	87
+1	west village,jackson height	5
+1	financial district,Auburndale	2
+1	canarsie,canarsie	3
+1	sunny side,midtown	91
+1	murray hill,utopia	3
+1	carnegie hill,mott haven	3
+1	forest hills,financial district	2
+1	carnegie hill,parkchester	1
+1	chelsea,south bronx	9
+1	west village,westleigh-castleton	2
+1	williamsburg,greewood	1
+1	JFK,battery park	27
+1	soho,bay ridge	5
+1	murray hill,middle village	2
+1	upper west side,battery park	97
+1	park slope,astoria-long island city	2
+1	lower east side,chelsea	145
+1	upper west side,dyker heights	1
+1	midtown,greenwich village	984
+1	west village,hamilton heights	7
+1	battery park,bensonhurst	2
+1	clinton,midtown	1667
+1	chelsea,spuyten duyvil	3
+1	soho,LGA	26
+1	east village,morris heights	1
+1	mott haven,south bronx	5
+1	central park,financial district	5
+1	jamaica,garment district	4
+1	north sutton area,forest hills	7
+1	chinatown,financial district	30
+1	upper west side,morningside heights	562
+1	greenwich village,williamsburg	157
+1	upper east side,hamilton heights	66
+1	morningside heights,high bridge	2
+1	soho,greewood	2
+1	LGA,middle village	2
+1	little italy,spuyten duyvil	2
+1	upper east side,inwood	19
+1	battery park,washington heights	4
+1	west village,astoria-long island city	22
+1	murray hill,murray hill	309
+1	williamsburg,LGA	3
+1	sunny side,bedford park	1
+1	jackson height,east harlem	1
+1	sunny side,parkchester	2
+1	JFK,JFK	164
+1	little italy,woodside	2
+1	central park,williamsburg	1
+1	sunny side,battery park	8
+1	high bridge,tremont	2
+1	soho,financial district	193
+1	harlem,sunny side	2
+1	sunny side,springfield gardens	2
+1	clinton,little italy	16
+1	woodside,financial district	1
+1	gramercy,east village	844
+1	greenwich village,sunny side	34
+1	jamaica,yorkville	1
+1	astoria-long island city,mott haven	2
+1	west village,brownsville	2
+1	boerum hill,bushwick	4
+1	williamsburg,morningside heights	2
+1	garment district,inwood	11
+1	JFK,upper east side	165
+1	west village,new brighten	1
+1	astoria-long island city,cobble hill	1
+1	financial district,williamsburg	51
+1	garment district,LGA	59
+1	carnegie hill,battery park	12
+1	soho,mott haven	2
+1	central park,hamilton heights	7
+1	yorkville,washington heights	21
+1	middle village,ridgewood	2
+1	morningside heights,carnegie hill	25
+1	east village,upper west side	156
+1	gramercy,sunset park	7
+1	brooklyn-downtown,gravesend-sheepshead bay	2
+1	tremont,kings bridge	1
+1	hamilton heights,central park	2
+1	west village,sunny side	16
+1	astoria-long island city,greewood	1
+1	queensboro hill,jackson height	2
+1	jamaica,clinton	1
+1	chelsea,dyker heights	1
+1	carnegie hill,morris heights	1
+1	yorkville,hamilton heights	17
+1	springfield gardens,east village	1
+1	LGA,morris heights	3
+1	cobble hill,LGA	2
+1	hamilton heights,carnegie hill	4
+1	east village,east village	685
+1	fort green,bay ridge	3
+1	midtown,cobble hill	35
+1	greenwich village,murray hill	373
+1	chelsea,utopia	5
+1	north sutton area,bedford-stuyvesant	3
+1	JFK,morningside heights	28
+1	carnegie hill,university heights	1
+1	murray hill,midtown	1513
+1	battery park,astoria-long island city	6
+1	east village,garment district	313
+1	north sutton area,jackson height	4
+1	central park,sunny side	7
+1	west village,borough park	2
+1	financial district,west village	72
+1	corona,midtown	2
+1	central park,north sutton area	17
+1	boerum hill,midtown	8
+1	LGA,murray hill	126
+1	jackson height,financial district	3
+1	midtown,jamaica	5
+1	yorkville,forest hills	1
+1	astoria-long island city,flushing	5
+1	east village,union port	3
+1	north sutton area,astoria-long island city	28
+1	little italy,chinatown	14
+1	corona,chinatown	2
+1	carroll gardens,north sutton area	4
+1	chelsea,riverdale	3
+1	upper west side,borough park	2
+1	upper west side,central park	323
+1	LGA,flushing	21
+1	midtown,carnegie hill	315
+1	lower east side,east harlem	8
+1	washington heights,battery park	3
+1	upper west side,hamilton heights	217
+1	JFK,kwq gardens	33
+1	east harlem,east village	8
+1	morningside heights,jamaica	1
+1	harlem,kwq gardens	1
+1	little italy,midtown	143
+1	JFK,little italy	9
+1	north sutton area,fort green	5
+1	garment district,carnegie hill	51
+1	east village,bedford park	3
+1	tribeca,east village	110
+1	clinton,soho	67
+1	financial district,east brooklyn	1
+1	west village,upper east side	181
+1	midtown,kwq gardens	31
+1	upper east side,south beach	1
+1	chelsea,bedford-stuyvesant	68
+1	high bridge,high bridge	4
+1	gramercy,Auburndale	1
+1	financial district,mott haven	2
+1	upper east side,bay ridge	3
+1	williamsburg,chelsea	22
+1	morningside heights,wakefield-williamsbridge	1
+1	borough park,riverdale	2
+1	jamaica,lower east side	1
+1	fort green,greewood	4
+1	west village,williamsburg	38
+1	greewood,brooklyn-downtown	3
+1	chinatown,park slope	5
+1	corona,corona	1
+1	garment district,central park	61
+1	midtown,west village	470
+1	gramercy,harlem	89
+1	chinatown,murray hill	13
+1	JFK,bay ridge	20
+1	brooklyn-downtown,sunset park	3
+1	soho,sunny side	15
+1	south bronx,tremont	2
+1	morningside heights,battery park	3
+1	little italy,central park	4
+1	financial district,chinatown	46
+1	JFK,bedford-stuyvesant	73
+1	chelsea,battery park	211
+1	south bronx,astoria-long island city	2
+1	north sutton area,washington heights	12
+1	LGA,garment district	103
+1	JFK,university heights	5
+1	midtown,south bronx	23
+1	battery park,clinton	58
+1	clinton,murray hill	261
+1	LGA,jackson height	64
+1	financial district,brooklyn-downtown	29
+1	clinton,Auburndale	1
+1	west village,upper west side	169
+1	carnegie hill,woodside	1
+1	murray hill,cobble hill	4
+1	financial district,washington heights	17
+1	east village,astoria-long island city	83
+1	sunny side,brooklyn-downtown	4
+1	park slope,canarsie	5
+1	greenwich village,clinton	221
+1	west village,bedford park	1
+1	chelsea,jamaica	1
+1	garment district,washington heights	61
+1	carnegie hill,yorkville	111
+1	midtown,woodside	76
+1	soho,williamsburg	92
+1	yorkville,soundview	2
+1	financial district,chelsea	215
+1	jackson height,queensboro hill	2
+1	harlem,central park	33
+1	JFK,clinton	85
+1	JFK,hamilton heights	18
+1	brooklyn-downtown,the rockaways	1
+1	cobble hill,west village	1
+1	bushwick,clinton	1
+1	carnegie hill,east village	13
+1	park slope,bushwick	1
+1	south bronx,high bridge	2
+1	JFK,bensonhurst	11
+1	north sutton area,east village	56
+1	garment district,parkchester	9
+1	chinatown,queens village	1
+1	washington heights,midtown	16
+1	east harlem,morningside heights	21
+1	upper west side,upper east side	2103
+1	upper east side,forest hills	21
+1	west village,bedford-stuyvesant	25
+1	sunny side,williamsburg	8
+1	east village,clinton	138
+1	boerum hill,fort green	20
+1	boerum hill,greenwich village	1
+1	jamaica,gramercy	2
+1	upper east side,upper east side	8460
+1	JFK,soho	42
+1	midtown,woodhaven-richmond hill	8
+1	JFK,clifton	2
+1	financial district,cobble hill	9
+1	garment district,canarsie	7
+1	maspeth,forest hills	3
+1	lower east side,clinton	54
+1	washington heights,carnegie hill	3
+1	brooklyn-downtown,east village	10
+1	upper west side,morris heights	7
+1	woodhaven-richmond hill,forest hills	3
+1	east harlem,gramercy	17
+1	sunny side,hamilton heights	1
+1	queens village,east brooklyn	4
+1	clinton,middle village	3
+1	midtown,union port	7
+1	boerum hill,brooklyn-downtown	12
+1	central park,murray hill	45
+1	bay ridge,park slope	1
+1	carnegie hill,williamsburg	3
+1	tribeca,carroll gardens	18
+1	midtown,soho	345
+1	fort green,tribeca	4
+1	west village,greenwich village	388
+1	greenwich village,tremont	2
+1	cobble hill,lower east side	3
+1	woodside,brooklyn-downtown	1
+1	harlem,little italy	2
+1	morningside heights,central park	10
+1	garment district,soho	123
+1	upper west side,williamsburg	18
+1	cobble hill,soho	2
+1	clinton,maspeth	3
+1	upper west side,parkchester	5
+1	JFK,little neck	8
+1	jackson height,yorkville	1
+1	gramercy,east harlem	52
+1	LGA,university heights	4
+1	upper west side,forest hills	8
+1	jamaica,battery park	2
+1	gramercy,ridgewood	9
+1	brooklyn-downtown,battery park	4
+1	little italy,upper east side	72
+1	williamsburg,chinatown	4
+1	murray hill,morris heights	1
+1	upper west side,ridgewood	1
+1	lower east side,little italy	59
+1	soho,garment district	153
+1	boerum hill,chelsea	3
+1	cobble hill,clinton	3
+1	soho,astoria-long island city	20
+1	hamilton heights,riverdale	2
+1	boerum hill,north sutton area	1
+1	garment district,university heights	2
+1	north sutton area,soundview	2
+1	astoria-long island city,tremont	1
+1	fort green,williamsburg	48
+1	west village,chelsea	695
+1	carnegie hill,lower east side	6
+1	brooklyn-downtown,LGA	2
+1	murray hill,parkchester	1
+1	lower east side,bedford-stuyvesant	95
+1	LGA,midtown	606
+1	north sutton area,williamsburg	10
+1	williamsburg,middle village	2
+1	battery park,financial district	279
+1	mott haven,LGA	1
+1	tribeca,east harlem	1
+1	JFK,greenwich village	63
+1	LGA,gramercy	159
+1	hamilton heights,hunts point	1
+1	LGA,maspeth	5
+1	chelsea,yorkville	65
+1	central park,kings bridge	1
+1	greenwich village,midtown	1047
+1	carnegie hill,garment district	49
+1	williamsburg,sunny side	13
+1	union port,union port	1
+1	midtown,bedford-stuyvesant	60
+1	jackson height,tribeca	1
+1	williams bridge,baychester	1
+1	gravesend-sheepshead bay,borough park	1
+1	yorkville,tremont	1
+1	LGA,queens village	6
+1	gramercy,east brooklyn	4
+1	midtown,todt hill	1
+1	greenwich village,oakwood	1
+1	springfield gardens,springfield gardens	2
+1	corona,springfield gardens	1
+1	woodside,little italy	2
+1	bedford park,bedford park	6
+1	central park,tribeca	7
+1	fort green,clinton	1
+1	brooklyn-downtown,bedford-stuyvesant	27
+1	midtown,park slope	161
+1	financial district,mapleton-flatlands	10
+1	soho,bensonhurst	2
+1	tribeca,upper east side	141
+1	financial district,brownsville	2
+1	mott haven,hamilton heights	3
+1	harlem,spuyten duyvil	1
+1	woodside,garment district	4
+1	jackson height,mott haven	3
+1	park slope,clinton	2
+1	sunny side,central park	4
+1	clinton,chinatown	12
+1	corona,garment district	1
+1	morningside heights,east harlem	23
+1	kwq gardens,murray hill	2
+1	midtown,morris park	7
+1	chelsea,east village	506
+1	woodside,east village	1
+1	tribeca,midtown	390
+1	midtown,sunny side	320
+1	midtown,laurelton	2
+1	astoria-long island city,garment district	20
+1	cobble hill,cobble hill	2
+1	carnegie hill,north sutton area	16
+1	bedford-stuyvesant,garment district	2
+1	financial district,JFK	24
+1	greewood,williamsburg	1
+1	chelsea,soundview	1
+1	garment district,midtown	3385
+1	LGA,ridgewood	12
+1	carnegie hill,upper west side	293
+1	lower east side,brooklyn-downtown	24
+1	fordham,south bronx	1
+1	clinton,woodlawn-nordwood	2
+1	bedford-stuyvesant,west village	1
+1	east village,gravesend-sheepshead bay	6
+1	JFK,washington heights	33
+1	jackson height,north sutton area	2
+1	bedford-stuyvesant,williamsburg	22
+1	bedford-stuyvesant,canarsie	1
+1	brownsville,east brooklyn	1
+1	clinton,ridgewood	3
+1	upper west side,soho	58
+1	chinatown,chinatown	5
+1	little italy,murray hill	41
+1	greewood,upper east side	2
+1	upper east side,woodhaven-richmond hill	4
+1	lower east side,yorkville	21
+1	mott haven,parkchester	2
+1	battery park,soho	105
+1	tribeca,soho	187
+1	little italy,north sutton area	9
+1	JFK,lower east side	63
+1	greenwich village,carroll gardens	25
+1	upper east side,chelsea	521
+1	west village,greewood	4
+1	boerum hill,carroll gardens	23
+1	yorkville,fort green	1
+1	chelsea,middle village	1
+1	sunny side,sunny side	235
+1	chelsea,bedford park	3
+1	sunny side,upper west side	14
+1	chinatown,gravesend-sheepshead bay	1
+1	tribeca,sunny side	6
+1	brooklyn-downtown,hamilton heights	1
+1	east brooklyn,fort green	1
+1	tribeca,bay ridge	14
+1	west village,tribeca	154
+1	financial district,middle village	1
+1	north sutton area,chelsea	65
+1	lower east side,battery park	60
+1	midtown,financial district	741
+1	gramercy,greenwich village	879
+1	little italy,south beach	2
+1	tribeca,greenwich village	239
+1	chinatown,chelsea	16
+1	jamaica,hamilton heights	1
+1	murray hill,woodside	7
+1	tribeca,central park	13
+1	midtown,greewood	15
+1	williamsburg,fort green	71
+1	clinton,chelsea	630
+1	carnegie hill,chinatown	3
+1	gramercy,murray hill	1137
+1	east harlem,lower east side	4
+1	east village,fort green	101
+1	carroll gardens,boerum hill	28
+1	hamilton heights,upper west side	66
+1	astoria-long island city,central park	5
+1	cobble hill,carroll gardens	7
+1	bay ridge,sunset park	4
+1	north sutton area,east harlem	14
+1	west village,south bronx	5
+1	sunny side,harlem	2
+1	williamsburg,financial district	9
+1	upper east side,LGA	211
+1	greenwich village,east harlem	20
+1	upper east side,tremont	5
+1	east village,westleigh-castleton	1
+1	murray hill,jackson height	4
+1	JFK,harlem	42
+1	lower east side,chinatown	28
+1	gramercy,middle village	7
+1	boerum hill,east brooklyn	1
+1	LGA,utopia	10
+1	tribeca,washington heights	13
+1	upper west side,chinatown	9
+1	little italy,harlem	8
+1	greenwich village,astoria-long island city	60
+1	baychester,baychester	1
+1	JFK,cobble hill	17
+1	tribeca,south bronx	1
+1	bedford-stuyvesant,sunny side	1
+1	financial district,maspeth	1
+1	little italy,carroll gardens	6
+1	west village,central park	12
+1	east harlem,clinton	1
+1	central park,upper east side	538
+1	west village,forest hills	2
+1	gramercy,chinatown	33
+1	carnegie hill,south bronx	1
+1	greenwich village,east village	741
+1	LGA,city island	1
+1	clinton,mott haven	3
+1	hamilton heights,soho	2
+1	LGA,mott haven	5
+1	gramercy,springfield gardens	1
+1	upper east side,greenwich village	323
+1	woodside,fort green	2
+1	LGA,bedford park	2
+1	park slope,lower east side	3
+1	east village,chelsea	447
+1	clinton,gravesend-sheepshead bay	6
+1	washington heights,east village	1
+1	yorkville,battery park	2
+1	westleigh-castleton,westleigh-castleton	1
+1	LGA,yorkville	25
+1	JFK,borough park	9
+1	garment district,mapleton-flatlands	17
+1	east harlem,washington heights	10
+1	midtown,tribeca	367
+1	morris heights,maspeth	2
+1	hamilton heights,astoria-long island city	1
+1	battery park,park slope	12
+1	clinton,brownsville	3
+1	chinatown,borough park	2
+1	brooklyn-downtown,mapleton-flatlands	2
+1	midtown,bay ridge	43
+1	central park,upper west side	423
+1	north sutton area,mapleton-flatlands	1
+1	LGA,west village	30
+1	jamaica,bedford park	1
+1	JFK,fort green	105
+1	little italy,sunny side	7
+1	little italy,chelsea	119
+1	murray hill,high bridge	3
+1	central park,soho	8
+1	clinton,upper east side	349
+1	hamilton heights,high bridge	3
+1	jackson height,LGA	1
+1	bay ridge,borough park	4
+1	brooklyn-downtown,tribeca	9
+1	garment district,richmondtown	1
+1	corona,upper west side	1
+1	east village,middle village	2
+1	upper west side,riverdale	21
+1	upper east side,kings bridge	2
+1	morningside heights,mapleton-flatlands	2
+1	JFK,bushwick	38
+1	JFK,williamsburg	81
+1	midtown,garment district	2460
+1	bensonhurst,gravesend-sheepshead bay	1
+1	JFK,flushing	14
+1	little italy,jamaica	1
+1	astoria-long island city,jackson height	29
+1	garment district,yorkville	85
+1	chelsea,brownsville	1
+1	murray hill,LGA	69
+1	gramercy,mott haven	10
+1	carroll gardens,tribeca	9
+1	chelsea,westleigh-castleton	1
+1	park slope,boerum hill	7
+1	garment district,greewood	7
+1	woodside,greenwich village	1
+1	lower east side,gravesend-sheepshead bay	3
+1	williamsburg,gravesend-sheepshead bay	1
+1	murray hill,brooklyn-downtown	15
+1	brooklyn-downtown,JFK	5
+1	murray hill,brownsville	1
+1	greenwich village,university heights	1
+1	chinatown,east village	34
+1	east harlem,upper east side	140
+1	north sutton area,woodside	3
+1	brooklyn-downtown,astoria-long island city	2
+1	maspeth,midtown	2
+1	clinton,south bronx	3
+1	upper east side,sunset park	2
+1	woodside,forest hills	1
+1	tribeca,park slope	34
+1	garment district,jackson height	23
+1	east village,greenwich village	631
+1	battery park,carnegie hill	2
+1	soundview,harlem	1
+1	lower east side,forest hills	3
+1	carroll gardens,astoria-long island city	3
+1	chinatown,yorkville	4
+1	bushwick,greenwich village	1
+1	morningside heights,fort green	1
+1	clinton,utopia	2
+1	battery park,sunset park	2
+1	soho,carroll gardens	21
+1	utopia,lower east side	1
+1	little italy,south bronx	1
+1	upper east side,borough park	12
+1	sunny side,astoria-long island city	80
+1	upper east side,boerum hill	9
+1	baychester,morris heights	1
+1	washington heights,harlem	18
+1	JFK,gramercy	130
+1	forest hills,little neck	1
+1	east brooklyn,east brooklyn	6
+1	boerum hill,mapleton-flatlands	1
+1	ridgewood,gravesend-sheepshead bay	2
+1	washington heights,tremont	1
+1	astoria-long island city,east harlem	8
+1	maspeth,west village	3
+1	carroll gardens,financial district	14
+1	bedford-stuyvesant,soho	1
+1	upper west side,university heights	4
+1	chelsea,flushing	1
+1	greenwich village,gravesend-sheepshead bay	12
+1	west village,murray hill	139
+1	carroll gardens,clinton	1
+1	east harlem,east harlem	91
+1	chelsea,woodside	11
+1	washington heights,west village	6
+1	sunny side,gravesend-sheepshead bay	1
+1	upper west side,soundview	3
+1	soho,clinton	90
+1	williamsburg,north sutton area	1
+1	flushing,union port	2
+1	harlem,morris heights	1
+1	bushwick,east brooklyn	1
+1	bensonhurst,bensonhurst	1
+1	williamsburg,murray hill	5
+1	fort green,central park	1
+1	JFK,middle village	6
+1	clinton,morris heights	1
+1	soho,harlem	21
+1	jackson height,upper west side	1
+1	murray hill,ridgewood	4
+1	financial district,university heights	2
+1	greenwich village,upper east side	478
+1	little italy,gramercy	101
+1	harlem,upper west side	173
+1	chelsea,parkchester	5
+1	soho,north sutton area	24
+1	astoria-long island city,springfield gardens	1
+1	sunny side,greenwich village	10
+1	west village,washington heights	19
+1	central park,middle village	1
+1	carnegie hill,midtown	506
+1	battery park,murray hill	75
+1	kings bridge,kings bridge	1
+1	LGA,gravesend-sheepshead bay	9
+1	murray hill,upper east side	800
+1	greenwich village,west village	501
+1	central park,throggs neck	1
+1	gramercy,financial district	400
+1	financial district,sunny side	34
+1	fort green,bedford-stuyvesant	70
+1	jamaica,murray hill	2
+1	washington heights,riverdale	2
+1	JFK,astoria-long island city	64
+1	gramercy,soho	304
+1	park slope,midtown	13
+1	murray hill,washington heights	18
+1	south bronx,hunts point	2
+1	garment district,jamaica	3
+1	greenwich village,soundview	1
+1	east village,williamsburg	187
+1	gramercy,university heights	3
+1	chelsea,north sutton area	50
+1	soho,soho	185
+1	upper east side,ardon heights	1
+1	garment district,north sutton area	73
+1	east harlem,carnegie hill	11
+1	midtown,woodlawn-nordwood	11
+1	cobble hill,park slope	3
+1	brooklyn-downtown,cobble hill	6
+1	battery park,LGA	26
+1	tribeca,yorkville	8
+1	yorkville,carroll gardens	2
+1	midtown,JFK	198
+1	hamilton heights,fordham	2
+1	astoria-long island city,little italy	4
+1	carnegie hill,little italy	2
+1	tribeca,tribeca	217
+1	harlem,boerum hill	2
+1	lower east side,east brooklyn	1
+1	murray hill,astoria-long island city	51
+1	financial district,kings bridge	4
+1	cobble hill,bay ridge	1
+1	battery park,bedford-stuyvesant	4
+1	little italy,greenwich village	105
+1	upper west side,mapleton-flatlands	4
+1	upper east side,throggs neck	2
+1	financial district,little italy	31
+1	astoria-long island city,chelsea	14
+1	jamaica,carnegie hill	1
+1	north sutton area,high bridge	1
+1	astoria-long island city,woodside	38
+1	clinton,hamilton heights	36
+1	chelsea,hamilton heights	47
+1	sunny side,upper east side	78
+1	hamilton heights,spuyten duyvil	2
+1	morningside heights,upper east side	77
+1	cobble hill,williamsburg	2
+1	park slope,battery park	4
+1	jackson height,greenwich village	2
+1	greenwich village,cobble hill	20
+1	bedford park,morris park	2
+1	murray hill,sunny side	52
+1	midtown,fort green	121
+1	kwq gardens,utopia	4
+1	park slope,high bridge	1
+1	east harlem,inwood	1
+1	park slope,tribeca	6
+1	chelsea,mott haven	12
+1	little italy,borough park	6
+1	williamsburg,little italy	3
+1	yorkville,woodlawn-nordwood	1
+1	carnegie hill,central park	81
+1	lower east side,jackson height	11
+1	upper west side,JFK	74
+1	morris heights,south bronx	2
+1	JFK,yorkville	18
+1	lower east side,utopia	3
+1	carnegie hill,astoria-long island city	9
+1	north sutton area,yorkville	25
+1	murray hill,chinatown	12
+1	LGA,LGA	63
+1	clinton,forest hills	7
+1	utopia,forest hills	2
+1	bedford park,tribeca	1
+1	washington heights,morris heights	4
+1	bushwick,bushwick	18
+1	gramercy,brooklyn-downtown	47
+1	morningside heights,washington heights	21
+1	lower east side,west village	68
+1	washington heights,washington heights	86
+1	washington heights,forest hills	1
+1	woodside,battery park	1
+1	boerum hill,sunny side	2
+1	hamilton heights,morningside heights	52
+1	carroll gardens,chinatown	1
+1	LGA,carroll gardens	23
+1	carnegie hill,financial district	14
+1	yorkville,north sutton area	5
+1	harlem,hamilton heights	57
+1	forest hills,woodside	1
+1	sunny side,maspeth	16
+1	upper east side,little neck	1
+1	JFK,east village	71
+1	LGA,fort green	53
+1	flushing,jackson height	1
+1	garment district,fordham	5
+1	west village,morningside heights	15
+1	central park,boerum hill	1
+1	jackson height,forest hills	4
+1	fort green,bushwick	12
+1	bushwick,JFK	1
+1	carroll gardens,midtown	18
+1	financial district,upper west side	112
+1	upper east side,riverdale	11
+1	carroll gardens,garment district	11
+1	clinton,garment district	527
+1	upper west side,union port	1
+1	lower east side,astoria-long island city	26
+1	soho,battery park	100
+1	west village,carnegie hill	22
+1	woodside,maspeth	13
+1	east harlem,west village	3
+1	upper east side,bedford-stuyvesant	25
+1	central park,washington heights	18
+1	lower east side,JFK	14
+1	west village,cobble hill	6
+1	bedford-stuyvesant,east brooklyn	1
+1	hamilton heights,washington heights	18
+1	cobble hill,upper west side	1
+1	midtown,queensboro hill	4
+1	greenwich village,bay ridge	16
+1	north sutton area,garment district	99
+1	park slope,carroll gardens	19
+1	JFK,financial district	63
+1	lower east side,greenwich village	226
+1	carnegie hill,boerum hill	1
+1	upper east side,flushing	13
+1	brooklyn-downtown,riverdale	2
+1	chinatown,hamilton heights	2
+1	fort green,maspeth	1
+1	astoria-long island city,yorkville	13
+1	murray hill,fort green	24
+1	jackson height,middle village	1
+1	gramercy,dyker heights	4
+1	east village,south bronx	1
+1	park slope,bedford-stuyvesant	10
+1	carnegie hill,canarsie	1
+1	upper east side,battery park	139
+1	upper east side,glendale	4
+1	JFK,queensboro hill	7
+1	borough park,gravesend-sheepshead bay	1
+1	yorkville,jamaica	1
+1	tribeca,university heights	1
+1	upper east side,country club	2
+1	greenwich village,bushwick	40
+1	little italy,maspeth	2
+1	central park,west village	13
+1	gramercy,union port	1
+1	east village,little italy	112
+1	garment district,hunts point	2
+1	washington heights,central park	4
+1	greenwich village,carnegie hill	47
+1	upper west side,astoria-long island city	65
+1	LGA,queensboro hill	9
+1	tribeca,brooklyn-downtown	27
+1	kwq gardens,astoria-long island city	1
+1	upper east side,lower east side	159
+1	astoria-long island city,financial district	14
+1	gramercy,fordham	2
+1	south bronx,mott haven	6
+1	carroll gardens,borough park	4
+1	clinton,bedford-stuyvesant	22
+1	borough park,brooklyn-downtown	2
+1	chelsea,park slope	74
+1	midtown,harlem	305
+1	greenwich village,washington heights	44
+1	clinton,woodhaven-richmond hill	1
+1	carroll gardens,high bridge	1
+1	brooklyn-downtown,fort green	68
+1	jackson height,flushing	3
+1	JFK,forest hills	45
+1	soundview,throggs neck	1
+1	murray hill,south bronx	5
+1	greenwich village,park slope	70
+1	maspeth,astoria-long island city	1
+1	harlem,midtown	91
+1	hamilton heights,JFK	4
+1	yorkville,east village	6
+1	tribeca,clinton	95
+1	north sutton area,bensonhurst	1
+1	garment district,clearview	1
+1	upper east side,mariners harbor	1
+1	jamaica,west village	1
+1	financial district,jamaica	3
+1	upper east side,garment district	920
+1	chelsea,woodhaven-richmond hill	3
+1	central park,lower east side	7
+1	clinton,inwood	11
+1	greenwich village,lower east side	296
+1	chinatown,upper east side	16
+1	LGA,spuyten duyvil	2
+1	lower east side,the rockaways	1
+1	gramercy,glendale	5
+1	carnegie hill,hamilton heights	4
+1	maspeth,sunny side	1
+1	soho,city island	1
+1	north sutton area,morris park	1
+1	battery park,midtown	273
+1	clinton,astoria-long island city	55
+1	chinatown,west village	13
+1	yorkville,gramercy	37
+1	financial district,south beach	1
+1	midtown,inwood	37
+1	kings bridge,hunts point	2
+1	upper east side,kwq gardens	4
+1	carroll gardens,sunset park	2
+1	LGA,bedford-stuyvesant	44
+1	east harlem,wakefield-williamsbridge	1
+1	carroll gardens,gramercy	15
+1	yorkville,midtown	182
+1	upper west side,park slope	15
+1	lower east side,bensonhurst	4
+1	murray hill,williamsburg	22
+1	LGA,glendale	2
+1	chinatown,bedford-stuyvesant	3
+1	forest hills,maspeth	2
+1	LGA,boerum hill	16
+1	greenwich village,JFK	45
+1	harlem,lower east side	7
+1	brooklyn-downtown,boerum hill	13
+1	clinton,lower east side	44
+1	hamilton heights,murray hill	3
+1	JFK,north sutton area	19
+1	astoria-long island city,maspeth	1
+1	murray hill,west village	74
+1	springfield gardens,JFK	2
+1	midtown,springfield gardens	2
+1	washington heights,south bronx	2
+1	brooklyn-downtown,murray hill	9
+1	forest hills,flushing	2
+1	tribeca,west village	167
+1	upper west side,sunny side	35
+1	midtown,fordham	4
+1	park slope,garment district	6
+1	murray hill,little neck	2
+1	lower east side,central park	6
+1	midtown,wakefield-williamsbridge	4
+1	greewood,greewood	3
+1	murray hill,country club	1
+1	murray hill,riverdale	3
+1	battery park,north sutton area	9
+1	upper west side,washington heights	271
+1	upper west side,jamaica	2
+1	chelsea,maspeth	1
+1	brooklyn-downtown,high bridge	1
+1	greewood,sunset park	4
+1	harlem,murray hill	4
+1	upper west side,utopia	5
+1	midtown,chelsea	1809
+1	carroll gardens,mapleton-flatlands	2
+1	bay ridge,bay ridge	2
+1	north sutton area,boerum hill	4
+1	gramercy,upper west side	525
+1	kwq gardens,kwq gardens	6
+1	murray hill,harlem	40
+1	park slope,brownsville	1
+1	upper east side,laurelton	2
+1	sunset park,sunset park	2
+1	boerum hill,upper west side	3
+1	jackson height,lower east side	2
+1	mott haven,mott haven	23
+1	brooklyn-downtown,soho	10
+1	astoria-long island city,utopia	3
+1	washington heights,east harlem	6
+1	chinatown,jackson height	2
+1	west village,ridgewood	4
+1	astoria-long island city,harlem	11
+1	central park,battery park	5
+1	park slope,chelsea	2
+1	astoria-long island city,carnegie hill	1
+1	upper east side,university heights	5
+1	garment district,flushing	2
+1	soho,chinatown	21
+1	carnegie hill,greenwich village	11
+1	midtown,upper east side	5150
+1	gramercy,bedford-stuyvesant	51
+1	east village,washington heights	10
+1	garment district,brownsville	2
+1	upper west side,jackson height	12
+1	williamsburg,harlem	3
+1	lower east side,tribeca	110
+1	gramercy,williamsburg	118
+1	upper east side,east village	261
+1	carnegie hill,morningside heights	29
+1	fort green,upper west side	5
+1	williamsburg,midtown	41
+1	upper east side,baychester	1
+1	brooklyn-downtown,greewood	2
+1	hamilton heights,upper east side	21
+1	midtown,richmondtown	2
+1	greenwich village,middle village	3
+1	gramercy,maspeth	10
+1	JFK,williams bridge	2
+1	astoria-long island city,east village	8
+1	garment district,financial district	190
+1	hamilton heights,harlem	78
+1	upper east side,JFK	112
+1	east village,east brooklyn	1
+1	soho,midland beach	1
+1	upper east side,gramercy	1194
+1	forest hills,jackson height	4
+1	battery park,upper east side	63
+1	battery park,west village	70
+1	upper east side,cobble hill	8
+1	fort green,gravesend-sheepshead bay	1
+1	utopia,east harlem	1
+1	LGA,fordham	6
+1	maspeth,jamaica	1
+1	garment district,woodhaven-richmond hill	2
+1	JFK,dyker heights	2
+1	east village,yorkville	32
+1	east harlem,garment district	8
+1	astoria-long island city,sunny side	107
+1	soho,JFK	6
+1	park slope,cobble hill	2
+1	harlem,jackson height	2
+1	greenwich village,woodhaven-richmond hill	1
+1	midtown,brownsville	4
+1	fort green,university heights	1
+1	midtown,mott haven	23
+1	lower east side,morris park	2
+1	greenwich village,bensonhurst	7
+1	garment district,greenwich village	317
+1	financial district,canarsie	3
+1	financial district,astoria-long island city	25
+1	soho,sunset park	3
+1	north sutton area,little italy	7
+1	garment district,dyker heights	3
+1	midtown,yorkville	315
+1	williamsburg,clinton	3
+1	JFK,woodhaven-richmond hill	30
+1	financial district,morningside heights	4
+1	upper east side,springfield gardens	2
+1	soho,upper east side	158
+1	clinton,east village	121
+1	springfield gardens,east brooklyn	1
+1	east village,sunny side	69
+1	yorkville,lower east side	12
+1	east village,bushwick	39
+1	central park,astoria-long island city	10
+1	yorkville,murray hill	14
+1	brooklyn-downtown,bay ridge	3
+1	central park,harlem	39
+1	soho,south bronx	2
+1	battery park,tribeca	241
+1	upper east side,jamaica	2
+1	astoria-long island city,kwq gardens	2
+1	LGA,tribeca	42
+1	carnegie hill,cobble hill	1
+1	fort green,JFK	2
+1	bedford-stuyvesant,brownsville	3
+1	maspeth,jackson height	2
+1	murray hill,baychester	1
+1	forest hills,midtown	11
+1	carnegie hill,soho	7
+1	woodside,upper west side	2
+1	east village,tremont	1
+1	chelsea,LGA	81
+1	financial district,westleigh-castleton	2
+1	east village,dyker heights	1
+1	clinton,country club	2
+1	JFK,sunny side	64
+1	gramercy,north sutton area	130
+1	central park,forest hills	2
+1	financial district,jackson height	12
+1	clinton,washington heights	69
+1	garment district,bay ridge	16
+1	utopia,jamaica	1
+1	garment district,riverdale	4
+1	boerum hill,boerum hill	25
+1	gramercy,battery park	170
+1	garment district,garment district	677
+1	sunset park,fort green	1
+1	little italy,middle village	1
+1	JFK,city island	2
+1	lower east side,gramercy	330
+1	little italy,lower east side	129
+1	bushwick,lower east side	7
+1	upper west side,cobble hill	1
+1	brooklyn-downtown,bushwick	2
+1	borough park,sunset park	1
+1	chelsea,lower east side	191
+1	chinatown,lower east side	37
+1	brooklyn-downtown,woodlawn-nordwood	1
+1	murray hill,borough park	4
+1	LGA,forest hills	35
+1	corona,upper east side	1
+1	cobble hill,little italy	1
+1	soho,yorkville	12
+1	midtown,dyker heights	12
+1	midtown,howland hook	1
+1	carnegie hill,queensboro hill	1
+1	clinton,clinton	662
+1	jamaica,upper east side	1
+1	east village,gramercy	903
+1	upper east side,soundview	7
+1	williamsburg,soho	10
+1	chinatown,carroll gardens	3
+1	gravesend-sheepshead bay,gravesend-sheepshead bay	19
+1	harlem,tribeca	1
+1	park slope,soho	3
+1	JFK,union port	1
+1	east village,greewood	6
+1	yorkville,tribeca	3
+1	garment district,boerum hill	16
+1	chelsea,little italy	70
+1	JFK,country club	6
+1	boerum hill,harlem	2
+1	tribeca,east brooklyn	1
+1	fort green,upper east side	9
+1	LGA,woodside	17
+1	chelsea,brooklyn-downtown	35
+1	upper east side,park slope	38
+1	lower east side,midtown	288
+1	chinatown,clinton	12
+1	boerum hill,murray hill	3
+1	north sutton area,soho	15
+1	tribeca,borough park	9
+1	east harlem,central park	5
+1	upper west side,flushing	2
+1	north sutton area,upper east side	535
+1	gramercy,williams bridge	1
+1	utopia,kwq gardens	2
+1	hamilton heights,morris heights	2
+1	harlem,inwood	5
+1	west village,inwood	3
+1	forest hills,middle village	2
+1	central park,greenwich village	30
+1	midtown,the rockaways	1
+1	murray hill,financial district	192
+1	harlem,soundview	5
+1	JFK,canarsie	29
+1	greenwich village,greenwich village	773
+1	cobble hill,midtown	21
+1	park slope,mapleton-flatlands	2
+1	LGA,kwq gardens	19
+1	hamilton heights,south bronx	6
+1	garment district,morris heights	2
+1	lower east side,park slope	57
+1	clinton,bensonhurst	4
+1	east harlem,university heights	1
+1	morningside heights,parkchester	1
+1	williamsburg,hamilton heights	2
+1	chelsea,bay ridge	17
+1	glendale,forest hills	1
+1	greenwich village,borough park	2
+1	murray hill,woodrow	1
+1	cobble hill,chelsea	8
+1	cobble hill,sunset park	1
+1	lower east side,new brighten	1
+1	financial district,woodhaven-richmond hill	1
+1	greenwich village,hunts point	1
+1	carroll gardens,central park	4
+1	financial district,financial district	414
+1	upper west side,bay ridge	6
+1	garment district,park slope	54
+1	east village,financial district	216
+1	soho,forest hills	1
+1	clinton,fort green	25
+1	east harlem,greenwich village	6
+1	midtown,jackson height	61
+1	central park,jackson height	3
+1	north sutton area,sunny side	13
+1	woodside,chelsea	4
+1	sunny side,yorkville	5
+1	yorkville,soho	2
+1	mapleton-flatlands,fort green	1
+1	forest hills,JFK	1
+1	cobble hill,murray hill	6
+1	woodside,yorkville	1
+1	battery park,forest hills	1
+1	midtown,kings bridge	10
+1	woodside,gramercy	3
+1	upper west side,north sutton area	62
+1	park slope,yorkville	1
+1	financial district,bedford-stuyvesant	28
+1	sunny side,carnegie hill	6
+1	yorkville,gravesend-sheepshead bay	4
+1	midtown,little neck	10
+1	washington heights,kings bridge	2
+1	LGA,bay ridge	9
+1	east harlem,LGA	16
+1	north sutton area,lower east side	20
+1	murray hill,kwq gardens	3
+1	garment district,union port	2
+1	park slope,sunny side	3
+1	tribeca,financial district	347
+1	north sutton area,upper west side	93
+1	greenwich village,riverdale	4
+1	garment district,mott haven	9
+1	carroll gardens,bedford-stuyvesant	13
+1	williamsburg,bedford-stuyvesant	65
+1	JFK,murray hill	73
+1	carroll gardens,upper east side	8
+1	harlem,parkchester	4
+1	sunset park,park slope	3
+1	LGA,park slope	37
+1	midtown,new brighten	1
+1	upper west side,east village	101
+1	LGA,harlem	62
+1	lower east side,east village	431
+1	yorkville,JFK	11
+1	lower east side,morningside heights	7
+1	battery park,boerum hill	7
+1	lower east side,murray hill	110
+1	jackson height,little italy	1
+1	tribeca,gramercy	186
+1	soho,union port	2
+1	lower east side,kwq gardens	1
+1	carroll gardens,battery park	9
+1	east harlem,mapleton-flatlands	1
+1	upper west side,fort green	20
+1	garment district,tremont	9
+1	upper west side,little neck	1
+1	east harlem,little italy	2
+1	east harlem,fordham	1
+1	woodside,morningside heights	1
+1	jackson height,jackson height	67
+1	east village,morris park	2
+1	morningside heights,lower east side	2
+1	LGA,JFK	17
+1	kwq gardens,east harlem	1
+1	carnegie hill,sunny side	6
+1	greenwich village,bedford-stuyvesant	62
+1	mapleton-flatlands,borough park	1
+1	garment district,queensboro hill	1
+1	mapleton-flatlands,carroll gardens	2
+1	yorkville,morningside heights	26
+1	battery park,chinatown	14
+1	central park,central park	132
+1	fort green,sunny side	1
+1	midtown,bedford park	6
+1	JFK,woodside	19
+1	williamsburg,williamsburg	205
+1	JFK,greewood	2
+1	tribeca,fort green	44
+1	JFK,glendale	2
+1	financial district,bloomfield-chelsea-travis	1
+1	jackson height,gramercy	3
+1	gramercy,garment district	1166
+1	lower east side,south bronx	1
+1	garment district,clinton	764
+1	astoria-long island city,tribeca	4
+1	garment district,williamsburg	72
+1	harlem,borough park	2
+1	LGA,cobble hill	11
+1	flushing,midtown	2
+1	north sutton area,carnegie hill	37
+1	brooklyn-downtown,bedford park	1
+1	soho,fort green	70
+1	east harlem,williamsburg	2
+1	williamsburg,greenwich village	13
+1	washington heights,inwood	4
+1	greenwich village,morris park	1
+1	brooklyn-downtown,garment district	7
+1	tribeca,canarsie	1
+1	upper east side,williamsburg	46
+1	LGA,Auburndale	5
+1	gramercy,LGA	95
+1	boerum hill,cobble hill	17
+1	bensonhurst,gramercy	1
+1	greenwich village,high bridge	1
+1	LGA,springfield gardens	8
+1	gramercy,throggs neck	1
+1	forest hills,upper east side	1
+1	greenwich village,financial district	305
+1	kwq gardens,soho	2
+1	west village,riverdale	2
+1	woodside,woodside	81
+1	east village,carnegie hill	7
+1	woodside,upper east side	34
+1	williamsburg,garment district	7
+1	williamsburg,park slope	8
+1	murray hill,bensonhurst	2
+1	lower east side,upper east side	152
+1	lower east side,middle village	1
+1	gramercy,soundview	1
+1	soho,throggs neck	1
+1	upper east side,east harlem	297
+1	upper west side,tribeca	103
+1	upper east side,gravesend-sheepshead bay	5
+1	midtown,throggs neck	4
+1	greenwich village,morris heights	1
+1	chinatown,east harlem	4
+1	tribeca,upper west side	109
+1	central park,carroll gardens	2
+1	morningside heights,tribeca	1
+1	murray hill,greenwich village	190
+1	upper west side,lower east side	45
+1	morningside heights,harlem	76
+1	east harlem,midtown	47
+1	battery park,carroll gardens	1
+1	chelsea,morris park	4
+1	lower east side,bay ridge	5
+1	east village,north sutton area	55
+1	murray hill,gravesend-sheepshead bay	4
+1	midtown,williams bridge	2
+1	yorkville,bushwick	1
+1	chelsea,upper east side	683
+1	greenwich village,upper west side	294
+1	chinatown,little italy	7
+1	battery park,fort green	9
+1	north sutton area,west village	12
+1	carnegie hill,park slope	3
+1	east harlem,chelsea	7
+1	tribeca,north sutton area	18
+1	clinton,carnegie hill	22
+1	garment district,gramercy	1585
+1	murray hill,boerum hill	8
+1	midtown,murray hill	1316
+1	chinatown,sunny side	1
+1	soho,queensboro hill	2
+1	east village,midtown	610
+1	laurelton,laurelton	1
+1	midtown,battery park	275
+1	gramercy,morningside heights	41
+1	bedford-stuyvesant,park slope	4
+1	west village,clinton	165
+1	clinton,north sutton area	25
+1	boerum hill,bay ridge	4
+1	park slope,gramercy	3
+1	midtown,hunts point	2
+1	chinatown,boerum hill	4
+1	bushwick,garment district	1
+1	bedford-stuyvesant,fort green	19
+1	east harlem,murray hill	14
+1	financial district,harlem	19
+1	garment district,tribeca	143
+1	gramercy,clearview	3
+1	midtown,borough park	13
+1	east village,ridgewood	6
+1	gramercy,jackson height	31
+1	clinton,dyker heights	1
+1	east village,central park	24
+1	brownsville,bedford-stuyvesant	2
+1	lower east side,hamilton heights	5
+1	upper west side,east harlem	171
+1	fort green,sunset park	4
+1	brooklyn-downtown,yorkville	1
+1	financial district,borough park	8
+1	woodside,jackson height	18
+1	battery park,lower east side	37
+1	murray hill,queens village	1
+1	hamilton heights,LGA	2
+1	bay ridge,gravesend-sheepshead bay	3
+1	clinton,morris park	1
+1	tribeca,clifton	1
+1	bushwick,glendale	1
+1	LGA,bushwick	30
+1	little italy,hamilton heights	2
+1	washington heights,university heights	1
+1	fort green,brooklyn-downtown	19
+1	midtown,boerum hill	44
+1	clinton,bay ridge	3
+1	west village,tremont	1
+1	soho,ridgewood	3
+1	east village,kings bridge	1
+1	hamilton heights,williamsburg	1
+1	williamsburg,east village	19
+1	woodside,woodhaven-richmond hill	1
+1	upper west side,harlem	403
+1	JFK,tribeca	32
+1	clinton,east harlem	16
+1	midtown,chinatown	43
+1	carnegie hill,fort green	3
+1	tribeca,kings bridge	2
+1	gramercy,kings bridge	7
+1	carroll gardens,greewood	3
+1	gramercy,borough park	12
+1	boerum hill,east village	4
+1	upper east side,brooklyn-downtown	27
+1	high bridge,mott haven	2
+1	soho,little neck	3
+1	midtown,queens village	5
+1	upper east side,sunny side	125
+1	brooklyn-downtown,greenwich village	9
+1	lower east side,garment district	118
+1	upper west side,garment district	329
+1	brooklyn-downtown,fordham	1
+1	midtown,astoria-long island city	461
+1	upper east side,middle village	8
+1	hamilton heights,tremont	2
+1	east harlem,north sutton area	7
+1	upper west side,spuyten duyvil	5
+1	LGA,wakefield-williamsbridge	4
+1	midtown,parkchester	2
+1	chinatown,tribeca	20
+1	forest hills,garment district	3
+1	jamaica,upper west side	2
+1	chinatown,cobble hill	2
+1	greenwich village,LGA	43
+1	little italy,sunset park	1
+1	financial district,central park	13
+1	lower east side,woodside	1
+1	morningside heights,midtown	65
+1	yorkville,little italy	1
+1	JFK,utopia	27
+1	little italy,carnegie hill	3
+1	upper east side,bedford park	9
+1	LGA,borough park	8
+1	clinton,financial district	90
+1	financial district,upper east side	243
+1	hamilton heights,tribeca	4
+1	west village,high bridge	1
+1	inwood,harlem	1
+1	brooklyn-downtown,springfield gardens	2
+1	LGA,jamaica	7
+1	clinton,bedford park	1
+1	morningside heights,baychester	1
+1	murray hill,south beach	1
+1	murray hill,woodhaven-richmond hill	3
+1	chinatown,upper west side	19
+1	battery park,brooklyn-downtown	10
+1	financial district,oakwood	2
+1	inwood,inwood	5
+1	greenwich village,dyker heights	3
+1	williamsburg,JFK	8
+1	morningside heights,garment district	15
+1	clinton,jackson height	6
+1	upper west side,carroll gardens	4
+1	sunny side,greewood	1
+1	lower east side,LGA	14
+1	carroll gardens,bay ridge	8
+1	inwood,bedford park	2
+1	gramercy,tremont	6
+1	north sutton area,park slope	7
+1	jackson height,fort green	2
+1	chelsea,tribeca	277
+1	little italy,east village	139
+1	chelsea,high bridge	2
+1	morris heights,mott haven	1
+1	murray hill,yorkville	46
+1	battery park,borough park	1
+1	garment district,bushwick	22
+1	east village,sunset park	11
+1	bushwick,ridgewood	6
+1	chelsea,fort green	105
+1	garment district,woodlawn-nordwood	2
+1	JFK,throggs neck	1
+1	little italy,park slope	16
+1	astoria-long island city,morningside heights	4
+1	upper east side,morningside heights	127
+1	midtown,central park	386
+1	soho,midtown	298
+1	east village,morningside heights	9
+1	morris heights,harlem	1
+1	central park,chelsea	50
+1	upper east side,morris heights	1
+1	murray hill,carnegie hill	32
+1	jackson height,morris park	1
+1	carnegie hill,west village	9
+1	hamilton heights,north sutton area	1
+1	upper west side,mott haven	18
+1	upper east side,woodlawn-nordwood	4
+1	astoria-long island city,astoria-long island city	483
+1	north sutton area,north sutton area	42
+1	morningside heights,financial district	4
+1	washington heights,chelsea	3
+1	greenwich village,south bronx	1
+1	lower east side,borough park	13
+1	clinton,high bridge	5
+1	upper west side,todt hill	1
+1	carroll gardens,lower east side	14
+1	brownsville,brownsville	2
+1	LGA,sunny side	41
+1	LGA,greenwich village	42
+1	gramercy,gravesend-sheepshead bay	6
+1	north sutton area,clinton	24
+1	tribeca,astoria-long island city	24
+1	battery park,gramercy	103
+1	upper east side,chinatown	18
+1	cobble hill,tribeca	4
+1	inwood,washington heights	1
+1	forest hills,ridgewood	1
+1	midtown,north sutton area	387
+1	chinatown,jamaica	1
+1	JFK,brownsville	12
+1	clinton,greenwich village	138
+1	murray hill,JFK	54
+1	jackson height,maspeth	10
+1	morningside heights,williamsburg	3
+1	upper east side,maspeth	12
+1	lower east side,canarsie	1
+1	JFK,springfield gardens	58
+1	little italy,washington heights	6
+1	JFK,bedford park	11
+1	carroll gardens,west village	6
+1	astoria-long island city,williamsburg	4
+1	financial district,greewood	9
+1	soho,cobble hill	6
+1	upper east side,morris park	11
+1	sunny side,jackson height	14
+1	battery park,morningside heights	7
+1	woodside,ridgewood	1
+1	financial district,bushwick	14
+1	carnegie hill,LGA	20
+1	chelsea,carroll gardens	33
+1	cobble hill,JFK	2
+1	garment district,west village	149
+1	murray hill,chelsea	382
+1	sunny side,brownsville	2
+1	central park,riverdale	2
+1	little italy,ridgewood	2
+1	tribeca,JFK	4
+1	upper west side,bushwick	7
+1	boerum hill,JFK	3
+1	lower east side,brownsville	3
+1	upper west side,bedford-stuyvesant	7
+1	east harlem,woodside	2
+1	brooklyn-downtown,brooklyn-downtown	23
+1	morningside heights,clinton	16
+1	astoria-long island city,queensboro hill	2
+1	washington heights,bedford park	1
+1	chelsea,sunset park	4
+1	sunny side,financial district	9
+1	utopia,midtown	1
+1	jamaica,midtown	3
+1	murray hill,bedford-stuyvesant	10
+1	williamsburg,maspeth	4
+1	chinatown,garment district	13
+1	park slope,little italy	2
+1	gramercy,park slope	89
+1	lower east side,mapleton-flatlands	2
+1	carnegie hill,inwood	2
+1	upper east side,jackson height	35
+1	LGA,east harlem	17
+1	financial district,little neck	2
+1	astoria-long island city,woodhaven-richmond hill	1
+1	murray hill,forest hills	24
+1	tribeca,mott haven	4
+1	financial district,forest hills	16
+1	astoria-long island city,park slope	1
+1	carroll gardens,chelsea	13
+1	harlem,jamaica	1
+1	clinton,boerum hill	7
+1	chelsea,morningside heights	38
+1	west village,lower east side	111
+1	garment district,astoria-long island city	113
+1	gramercy,parkchester	5
+1	JFK,fordham	1
+1	brooklyn-downtown,clinton	4
+1	carroll gardens,soho	6
+1	tribeca,cobble hill	5
+1	LGA,clinton	66
+1	washington heights,murray hill	2
+1	garment district,east village	263
+1	sunny side,JFK	16
+1	north sutton area,midtown	666
+1	brooklyn-downtown,carroll gardens	14
+1	murray hill,flushing	1
+1	bedford-stuyvesant,carroll gardens	1
+1	boerum hill,west village	3
+1	tribeca,rossville	1
+1	morningside heights,east village	2
+1	JFK,south bronx	3
+1	morningside heights,chelsea	22
+1	high bridge,gramercy	1
+1	murray hill,park slope	26
+1	east village,jamaica	4
+1	yorkville,astoria-long island city	5
+1	upper west side,upper west side	4744
+1	park slope,sunset park	9
+1	Auburndale,Auburndale	1
+1	garment district,baychester	1
+1	carroll gardens,bushwick	3
+1	gramercy,canarsie	7
+1	upper east side,woodside	36
+1	bedford-stuyvesant,boerum hill	2
+1	LGA,inwood	13
+1	JFK,carnegie hill	17
+1	astoria-long island city,murray hill	15
+1	midtown,williamsburg	161
+1	upper west side,middle village	5
+1	clinton,soundview	2
+1	fort green,forest hills	2
+1	woodside,queensboro hill	2
+1	carroll gardens,little italy	2
+1	financial district,park slope	65
+1	sunny side,west village	4
+1	financial district,ardon heights	1
+1	chelsea,mapleton-flatlands	3
+1	jackson height,upper east side	2
+1	greewood,bay ridge	1
+1	morningside heights,hamilton heights	35
+1	little italy,brooklyn-downtown	6
+1	midtown,forest hills	91
+1	park slope,brooklyn-downtown	7
+1	gramercy,greewood	13
+1	west village,mott haven	3
+1	upper east side,south bronx	29
+1	LGA,country club	1
+1	murray hill,morningside heights	25
+1	gramercy,upper east side	1331
+1	east village,boerum hill	22
+1	LGA,battery park	34
+1	borough park,boerum hill	1
+1	chelsea,central park	60
+1	greewood,carroll gardens	2
+1	lower east side,carnegie hill	6
+1	garment district,upper west side	584
+1	woodhaven-richmond hill,glendale	1
+1	garment district,queens village	2
+1	morningside heights,upper west side	263
+1	midtown,LGA	401
+1	morningside heights,riverdale	2
+1	midtown,spuyten duyvil	19
+1	clinton,brooklyn-downtown	6
+1	LGA,clearview	5
+1	yorkville,chelsea	19
+1	tribeca,bedford park	1
+1	chelsea,upper west side	628
+1	gramercy,woodhaven-richmond hill	3
+1	clinton,queensboro hill	2
+1	battery park,JFK	9
+1	little italy,jackson height	2
+1	financial district,carroll gardens	14
+1	midtown,tremont	3
+1	greenwich village,brooklyn-downtown	41
+1	upper east side,union port	2
+1	mott haven,tremont	1
+1	greenwich village,central park	37
+1	williamsburg,ridgewood	12
+1	brooklyn-downtown,chelsea	20
+1	chinatown,fort green	10
+1	carnegie hill,carroll gardens	4
+1	garment district,south bronx	16
+1	harlem,upper east side	98
+1	williams bridge,fordham	1
+1	park slope,borough park	9
+1	harlem,bedford-stuyvesant	2
+1	midtown,mapleton-flatlands	26
+1	mapleton-flatlands,greewood	1
+1	JFK,inwood	2
+1	yorkville,east harlem	91
+1	upper west side,kwq gardens	2
+1	yorkville,mott haven	11
+1	battery park,little italy	17
+1	upper west side,chelsea	446
+1	upper west side,LGA	143
+1	north sutton area,JFK	15
+1	gramercy,south bronx	9
+1	little italy,mapleton-flatlands	1
+1	clinton,sunny side	31
+1	lower east side,high bridge	6
+1	morningside heights,kings bridge	1
+1	williamsburg,brooklyn-downtown	17
+1	north sutton area,bay ridge	1
+1	astoria-long island city,clearview	1
+1	tribeca,williamsburg	62
+1	lower east side,washington heights	17
+1	east harlem,tribeca	1
+1	financial district,battery park	179
+1	queens village,upper east side	2
+1	central park,brooklyn-downtown	1
+1	upper east side,mapleton-flatlands	8
+1	east village,forest hills	9
+1	carroll gardens,east village	5
+1	east village,the rockaways	2
+1	west village,north sutton area	14
+1	financial district,midland beach	1
+1	maspeth,flushing	1
+1	upper west side,south bronx	15
+1	midtown,clearview	1
+1	midtown,east brooklyn	5
+1	LGA,east village	66
+1	harlem,garment district	22
+1	little italy,garment district	56
+1	chinatown,brooklyn-downtown	4
+1	chelsea,boerum hill	22
+1	tribeca,morningside heights	3
+1	maspeth,battery park	2
+1	east village,kwq gardens	1
+1	west village,little italy	52
+1	battery park,woodside	1
+1	harlem,yorkville	60
+1	williamsburg,woodside	1
+1	north sutton area,cobble hill	2
+1	boerum hill,park slope	21
+1	park slope,west village	2
+1	greewood,borough park	3
+1	east harlem,JFK	4
+1	boerum hill,williamsburg	12
+1	battery park,richmondtown	1
+1	east village,LGA	23
+1	jackson height,chelsea	2
+1	greenwich village,parkchester	2
+1	LGA,williams bridge	1
+1	west village,fort green	46
+1	harlem,gramercy	22
+1	LGA,canarsie	2
+1	lower east side,williamsburg	189
+1	east harlem,bedford park	1
+1	JFK,laurelton	11
+1	kwq gardens,upper east side	2
+1	north sutton area,murray hill	155
+1	battery park,east village	55
+1	gramercy,the rockaways	1
+1	upper east side,north sutton area	438
+1	gramercy,clinton	361
+1	greenwich village,maspeth	2
+1	greenwich village,sunset park	11
+1	south bronx,throggs neck	1
+1	east village,brooklyn-downtown	27
+1	JFK,high bridge	11
+1	carroll gardens,flushing	2
+1	little italy,boerum hill	5
+1	jackson height,sunny side	6
+1	gravesend-sheepshead bay,garment district	1
+1	battery park,battery park	90
+1	LGA,union port	1
+1	yorkville,LGA	14
+1	west village,LGA	19
+1	sunny side,park slope	3
+1	woodside,midtown	16
+1	boerum hill,astoria-long island city	1
+1	murray hill,east harlem	25
+1	harlem,east harlem	124
+1	north sutton area,mott haven	5
+1	fort green,chelsea	11
+1	chelsea,chinatown	29
+1	LGA,morningside heights	21
