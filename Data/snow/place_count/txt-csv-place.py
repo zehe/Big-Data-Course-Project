@@ -6,6 +6,7 @@ csv_file = r"3.csv"
 
 in_txt = csv.reader(open(txt_file,"r"), delimiter='\t')
 out_csv = csv.writer(open(csv_file,'w'), delimiter=',')
+out_csv.writerow(['snow','from','to','count'])
 for row in in_txt:
     temp_list = row[1].split(',')
     row.remove(row[1])
