@@ -19,8 +19,8 @@ for line in sys.stdin:
 			print('%s\tpcp&%s,%s,%s' % (date, time_min, time_max, pcp))
 		elif len(line) == 19:
 			pickup_datetime = line[1]
-			pickup_date = datetime.strptime(pickup_datetime, '%m/%d/%y %H:%M').strftime('%m%d')
-			pickup_time = datetime.strptime(pickup_datetime, '%m/%d/%y %H:%M').strftime('%H%M')
+			pickup_date = datetime.strptime(pickup_datetime, '%Y-%m-%d %H:%M:%S').strftime('%m%d')
+			pickup_time = datetime.strptime(pickup_datetime, '%Y-%m-%d %H:%M:%S').strftime('%H%M')
 			dropoff_datetime = line[2]
 			pickup_lon = line[5]
 			pickup_lat = line[6]
