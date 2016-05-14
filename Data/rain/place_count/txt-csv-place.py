@@ -1,7 +1,7 @@
 import csv
 
-txt_file = r"11.txt"
-csv_file = r"11.csv"
+txt_file = r"1.txt"
+csv_file = r"1.csv"
 
 
 in_txt = csv.reader(open(txt_file,"r"), delimiter='\t')

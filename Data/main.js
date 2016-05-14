@@ -170,7 +170,7 @@ d3.csv(filepath,  function(error, data) {
 
     var d2dwidth = 1200;
     var	d2dheight = 600;
-    var d2dsvg_height = 600;
+    var d2dsvg_height = 1000;
     var d2dneighborhood_index = {};
     var d2dneighborhood_array = [];
     var d2dmaxHeight=1;
@@ -235,11 +235,11 @@ d3.csv(filepath,  function(error, data) {
 		  var end_name= d.to;
 		  var count = d.count/100;
             
-		  if(d2dneighborhood_index[start_name] > d2dneighborhood_index[end_name]){
-			var tmp = end_name;
-			end_name = start_name;
-			start_name = tmp;
-		  }
+//		  if(d2dneighborhood_index[start_name] > d2dneighborhood_index[end_name]){
+//			var tmp = end_name;
+//			end_name = start_name;
+//			start_name = tmp;
+//		  }
             
            //console.log(d2dneighborhood_index);
 
@@ -253,7 +253,24 @@ d3.csv(filepath,  function(error, data) {
 		
 		for (var i = 0; i < count/10; i++){
 			var path = 'M ' + start + ','+ d2dheight +' A ' + (r + i*2) + ',' + ry + ' 0 0,1 ' + end + ','+ d2dheight +' ';
+            
+            if(d2dneighborhood_index[start_name] > d2dneighborhood_index[end_name]){
 			var single_path = group.append('path')
+			.attr('d', path)
+			.style('stroke', d2dcolor[11])
+			.on('mouseover',function(d){
+				d2dtext_info.text('From:  '+d.from + '  To: '+d.to+'\n'+'     Amount: '+d.count);
+				d3.select(this).style('stroke', 'red').style('stroke-width',2);
+
+			})
+			.on('mouseout',function(d){
+				d3.select(this).style('stroke', d2dcolor[11]).style('stroke-width',1)
+			})
+			.transition()
+      		.duration(750)
+			.style('fill','none');
+            }else{
+ 			var single_path = group.append('path')
 			.attr('d', path)
 			.style('stroke', d2dcolor[0])
 			.on('mouseover',function(d){
@@ -266,7 +283,9 @@ d3.csv(filepath,  function(error, data) {
 			})
 			.transition()
       		.duration(750)
-			.style('fill','none');
+			.style('fill','none');               
+            }
+
 			
 		}
             
@@ -300,11 +319,11 @@ d3.csv(filepath,  function(error, data) {
 		var start_name = d.from;
 		var end_name= d.to;
 		var count = d.count/100;
-		if(d2dneighborhood_index[start_name] > d2dneighborhood_index[end_name]){
-			var tmp = end_name;
-			end_name = start_name;
-			start_name = tmp;
-		}
+//		if(d2dneighborhood_index[start_name] > d2dneighborhood_index[end_name]){
+//			var tmp = end_name;
+//			end_name = start_name;
+//			start_name = tmp;
+//		}
 
 		var start = d2dxScale(start_name);
 		var end = d2dxScale(end_name);
