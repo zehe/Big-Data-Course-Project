@@ -13,6 +13,6 @@ for line in sys.stdin:
 		continue
 
 	if pickup_time >= time_min and pickup_time <= time_max:
-		print('%s\t%s,%s,%s,%s,%s,%s' % (values[12], values[4],values[5],values[6],values[7],values[8],values[9]))
+		print('%s\t%s,%s,%s,%s' % (values[12], values[6],values[7],values[8],values[9]))
 	else:
 		continue
