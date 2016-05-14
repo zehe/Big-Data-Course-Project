@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>D3 Homework</title>
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <script type="text/javascript" src="./main.js"></script>
+        <link rel= stylesheet type= "text/css" href="./style.css"/>
+    </head>
+    
+    <body>
+        <h4 id="details">Rain Vs. Trips - Jan</h4>
+        <div id="weatherandtrips">
+            <svg id="chart"></svg>
+        </div>
+        
+        <div id="destinations">
+            <svg id="relation"></svg>
+        </div>
+        
+        <div class="ui">
+        <div>
+            <label>Weather</label>
+            <select id="weather">
+                <option>rain</option>
+                <option>snow</option>
+                <option>temp</option>
+            </select>
+            <label>Months</label>
+            <select id="month">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>6</option>
+                <option>7</option>
+                <option>8</option>
+                <option>9</option>
+                <option>10</option>
+                <option>11</option>
+                <option>12</option>
+            </select>
+            
+            <button id="update">Update</button>
+        </div>
+            
+        </div>
+    </body>
+</html>
