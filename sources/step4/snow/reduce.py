@@ -23,4 +23,4 @@ for line in sys.stdin:
 
 for i in count:
     for j in count[i]:
-        print ('%s\t%s,%d'  % (i, j, count[i][j]))
+        print ('%s\t%s\t%d'  % (i, j, count[i][j]))
